@@ -1,0 +1,785 @@
+Virus name	Accession ID	Collection date	Location	travel	excluded	followed up	baseline surveillance
+hCoV-19/Belgium/ULG-12917/2021	EPI_ISL_1241728	2021-03-01	Europe / Belgium / Liège	Cameroon		TRUE	TRUE
+hCoV-19/England/CAMC-1382B1E/2021	EPI_ISL_1242199	2021-03-01	Europe / United Kingdom / England			TRUE	
+hCoV-19/England/CAMC-13B04C1/2021	EPI_ISL_1275749	2021-03-09	Europe / United Kingdom / England			TRUE	
+hCoV-19/England/CAMC-139A928/2021	EPI_ISL_1275972	2021-03-04	Europe / United Kingdom / England			TRUE	
+hCoV-19/England/CAMC-139AFAE/2021	EPI_ISL_1276088	2021-03-04	Europe / United Kingdom / England			TRUE	
+hCoV-19/Germany/RP-RKI-I-037987/2021	EPI_ISL_1284252	2021-03-09	Europe / Germany / Rhineland-Palatinate				
+hCoV-19/England/CAMC-13AFBFD/2021	EPI_ISL_1316127	2021-03-06	Europe / United Kingdom / England			TRUE	
+hCoV-19/England/CAMC-13D4360/2021	EPI_ISL_1327538	2021-03-12	Europe / United Kingdom / England			TRUE	
+hCoV-19/England/CAMC-13B8441/2021	EPI_ISL_1329214	2021-03-10	Europe / United Kingdom / England			TRUE	
+hCoV-19/England/CAMC-13B749D/2021	EPI_ISL_1329219	2021-03-08	Europe / United Kingdom / England			TRUE	
+hCoV-19/England/CAMC-13B8423/2021	EPI_ISL_1329268	2021-03-10	Europe / United Kingdom / England			TRUE	
+hCoV-19/Switzerland/GE-33576177/2021	EPI_ISL_1369646	2021-03-16	Europe / Switzerland / Geneva	Cameroon		TRUE	
+hCoV-19/Belgium/rega-5050/2021	EPI_ISL_1382294	2021-03-14	Europe / Belgium / Sint-Joost-ten-Node	Cameroon		TRUE	TRUE
+hCoV-19/Lithuania/MR-LUHS-3-60/2021	EPI_ISL_1404880	2021-03-15	Europe / Lithuania / Vilniaus apskritis				
+hCoV-19/France/ARA-210013001901/2021	EPI_ISL_1406653	2021-02-26	Europe / France / Auvergne-Rhone-Alpes / Issoire	Cameroon		TRUE	
+hCoV-19/France/PDL-IPP07069/2021	EPI_ISL_1495980	2021-03-18	Europe / France / Pays de la Loire / La Roche-sur-Yon	Cameroon		TRUE	
+hCoV-19/Belgium/UZA-UA-24912930/2021	EPI_ISL_1498300	2021-03-15	Europe / Belgium / Neder-Over-Heembeek	Cameroon	TRUE	TRUE	TRUE
+hCoV-19/Lithuania/LSMULKKGMMK10C167/2021	EPI_ISL_1540680	2021-03-15	Europe / Lithuania / Vilnius				
+hCoV-19/Lithuania/LSMULKKGMMK10C170/2021	EPI_ISL_1540683	2021-03-15	Europe / Lithuania / Vilnius				
+hCoV-19/Germany/NI-RKI-I-059759/2021	EPI_ISL_1565237	2021-03-22	Europe / Germany / Lower Saxony				
+hCoV-19/Germany/BY-RKI-I-060971/2021	EPI_ISL_1566470	2021-03-25	Europe / Germany / Bavaria				
+hCoV-19/Germany/BY-RKI-I-061070/2021	EPI_ISL_1566566	2021-03-26	Europe / Germany / Bavaria				
+hCoV-19/Germany/BY-RKI-I-063055/2021	EPI_ISL_1568272	2021-03-31	Europe / Germany / Bavaria				
+hCoV-19/Germany/un-RKI-I-066248/2021	EPI_ISL_1571290	2021-03-29	Europe / Germany				
+hCoV-19/USA/MD-MDH-1661/2021	EPI_ISL_1576771	2021-03-30	North America / USA / Maryland				
+hCoV-19/Lithuania/MR-LUHS-5-8/2021	EPI_ISL_1576950	2021-03-26	Europe / Lithuania / Taurages	France		TRUE	
+hCoV-19/Lithuania/LTU000_NMVRI55624/2021	EPI_ISL_1579527	2021-03-21	Europe / Lithuania / Vilniaus apskritis				
+hCoV-19/Lithuania/LTU000_NMVRI56199/2021	EPI_ISL_1579571	2021-03-21	Europe / Lithuania / Vilniaus apskritis				
+hCoV-19/Lithuania/LTU000_NMVRI54583/2021	EPI_ISL_1579607	2021-03-18	Europe / Lithuania / Vilniaus apskritis				
+hCoV-19/Lithuania/LTU000_MB20223/2021	EPI_ISL_1579691	2021-03-16	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/LTU000_NMVRI53742/2021	EPI_ISL_1579784	2021-03-16	Europe / Lithuania / Vilniaus apskritis				
+hCoV-19/Lithuania/LTU000_NMVRI56871/2021	EPI_ISL_1579903	2021-03-22	Europe / Lithuania / Vilniaus apskritis				
+hCoV-19/France/IDF-IPP08046/2021	EPI_ISL_1582678	2021-03-29	Europe / France / Ile-de-France / Pontoise				
+hCoV-19/Spain/CT-HUGTiPM010MZ7G7/2021	EPI_ISL_1583618	2021-03-30	Europe / Spain / Catalunya / Vilassar De Mar			TRUE	
+hCoV-19/Lithuania/S21D420/2021	EPI_ISL_1585832	2021-04-04	Europe / Lithuania / Utena				
+hCoV-19/Lithuania/S21D421/2021	EPI_ISL_1585833	2021-04-05	Europe / Lithuania / Utena				
+hCoV-19/Belgium/Aalst-OLVZ-8042639/2021	EPI_ISL_1620228	2021-03-28	Europe / Belgium			TRUE	TRUE
+hCoV-19/France/ARA-HCL021061596501/2021	EPI_ISL_1623167	2021-03-29	Europe / France / Auvergne-Rhone-Alpes / Cluses				
+hCoV-19/France/ARA-HCL021061598501/2021	EPI_ISL_1623586	2021-03-29	Europe / France / Auvergne-Rhone-Alpes / Cluses		TRUE		
+hCoV-19/USA/WV-WVU-WV064773/2021	EPI_ISL_1624880	2021-04-06	North America / USA / West Virginia				
+hCoV-19/England/PORT-1E7B48B/2021	EPI_ISL_1638013	2021-03-22	Europe / United Kingdom / England				
+hCoV-19/Germany/un-RKI-I-078686/2021	EPI_ISL_1643902	2021-04-02	Europe / Germany				
+hCoV-19/Germany/un-RKI-I-078700/2021	EPI_ISL_1643915	2021-04-01	Europe / Germany				
+hCoV-19/Lithuania/LTU000_MB22164/2021	EPI_ISL_1656854	2021-03-24	Europe / Lithuania / Utenos				
+hCoV-19/Lithuania/LTU000_MB22770/2021	EPI_ISL_1656882	2021-03-27	Europe / Lithuania / Utenos				
+hCoV-19/Lithuania/S21D552/2021	EPI_ISL_1661639	2021-04-01	Europe / Lithuania / Vilnius				
+hCoV-19/Lithuania/S21D576/2021	EPI_ISL_1661662	2021-04-04	Europe / Lithuania / Utena				
+hCoV-19/Lithuania/S21D612/2021	EPI_ISL_1661694	2021-03-30	Europe / Lithuania / Vilnius				
+hCoV-19/Lithuania/S21D624/2021	EPI_ISL_1661705	2021-03-31	Europe / Lithuania / Vilnius				
+hCoV-19/Lithuania/S21D636/2021	EPI_ISL_1661716	2021-03-30	Europe / Lithuania / Utena				
+hCoV-19/Lithuania/S21D648/2021	EPI_ISL_1661727	2021-04-01	Europe / Lithuania / Vilnius				
+hCoV-19/Lithuania/S21D660/2021	EPI_ISL_1661738	2021-04-02	Europe / Lithuania / Vilnius				
+hCoV-19/Lithuania/S21D672/2021	EPI_ISL_1661747	2021-04-09	Europe / Lithuania / Vilnius				
+hCoV-19/France/HDF-P326-21134M0692/2021	EPI_ISL_1671822	2021-03-31	Europe / France / Hauts-de-France	Cameroon		TRUE	
+hCoV-19/Equatorial_Guinea/91946/2021	EPI_ISL_1673323	2021-02-06	Africa / Equatorial Guinea	Cameroon		TRUE	
+hCoV-19/France/NOR-IPP08805/2021	EPI_ISL_1675013	2021-03-30	Europe / France / Normandie / Le Havre				
+hCoV-19/France/NOR-IPP08842/2021	EPI_ISL_1675021	2021-04-06	Europe / France / Normandie / Le Havre				
+hCoV-19/France/IDF-IPP08954/2021	EPI_ISL_1675082	2021-04-07	Europe / France / Ile-de-France / Pontoise				
+hCoV-19/France/IDF-IPP08956/2021	EPI_ISL_1675084	2021-04-07	Europe / France / Ile-de-France / Pontoise				
+hCoV-19/Czech_Republic/183304/2021	EPI_ISL_1675656	2021-03-25	Europe / Czech Republic / Olomouc Region	Mali		TRUE	
+hCoV-19/Belgium/UGent-4359/2021	EPI_ISL_1688635	2021-03-23	Europe / Belgium / Ghent				TRUE
+hCoV-19/Belgium/UGent-4369/2021	EPI_ISL_1688660	2021-03-23	Europe / Belgium / Ghent				TRUE
+hCoV-19/France/IDF-IPP09413/2021	EPI_ISL_1700651	2021-04-12	Europe / France / Ile de France / Pontoise			TRUE	
+hCoV-19/England/ALDP-1513943/2021	EPI_ISL_1718408	2021-04-16	Europe / United Kingdom / England				
+hCoV-19/USA/MN-CDC-IBX268520828935/2021	EPI_ISL_1733152	2021-04-09	North America / USA / Minnesota				
+hCoV-19/Switzerland/BL-ETHZ-581525/2021	EPI_ISL_1750667	2021-04-14	Europe / Switzerland / Basel-Landschaft				
+hCoV-19/France/IDF-HMN-21032310544/2021	EPI_ISL_1755103	2021-03-30	Europe / France / Ile-de-France				
+hCoV-19/France/IDF-HMN-21042160347/2021	EPI_ISL_1756607	2021-04-13	Europe / France / Ile-de-France				
+hCoV-19/Lithuania/S21D1141/2021	EPI_ISL_1756769	2021-04-07	Europe / Lithuania / Vilnius				
+hCoV-19/Lithuania/S21D913/2021	EPI_ISL_1756904	2021-04-12	Europe / Lithuania / Utena				
+hCoV-19/France/IDF-HMN-21042190775/2021	EPI_ISL_1757704	2021-04-15	Europe / France / Ile-de-France				
+hCoV-19/France/IDF-HMN-21042150351/2021	EPI_ISL_1757775	2021-04-12	Europe / France / Ile-de-France				
+hCoV-19/DRC/RDC-05/2021	EPI_ISL_1758089	2021	Africa / Democratic Republic of the Congo / Kinshasa		TRUE		
+hCoV-19/Lithuania/IBT-LSC-VU_r05_04/2021	EPI_ISL_1760006	2021-04-06	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/IBT-LSC-VU_r05_05/2021	EPI_ISL_1760007	2021-04-06	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/IBT-LSC-VU_r05_06/2021	EPI_ISL_1760008	2021-04-06	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/IBT-LSC-VU_r05_07/2021	EPI_ISL_1760009	2021-04-06	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/IBT-LSC-VU_r05_18/2021	EPI_ISL_1760020	2021-04-07	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/IBT-LSC-VU_r05_19/2021	EPI_ISL_1760021	2021-04-07	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/IBT-LSC-VU_r05_20/2021	EPI_ISL_1760022	2021-04-07	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/IBT-LSC-VU_r05_21/2021	EPI_ISL_1760023	2021-04-07	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Spain/CT-HUGTiPM012MJ6D1/2021	EPI_ISL_1761494	2021-03-26	Europe / Spain / Catalunya / Vilassar De Mar				
+hCoV-19/Spain/CT-HUGTiPM012MJ6E1/2021	EPI_ISL_1761505	2021-03-31	Europe / Spain / Catalunya / Vilassar De Mar				
+hCoV-19/Central African Republic/RCA-01/2021	EPI_ISL_1762052	2021	Africa / Central African Republic / Bangui		TRUE		
+hCoV-19/Central African Republic/RCA-02/2021	EPI_ISL_1762053	2021	Africa / Central African Republic / Bangui		TRUE		
+hCoV-19/Central African Republic/RCA-04/2021	EPI_ISL_1762054	2021	Africa / Central African Republic / Bangui		TRUE		
+hCoV-19/Central African Republic/RCA-06/2021	EPI_ISL_1762056	2021	Africa / Central African Republic / Bangui		TRUE		
+hCoV-19/Central African Republic/RCA-07/2021	EPI_ISL_1762057	2021	Africa / Central African Republic / Bangui				
+hCoV-19/Central African Republic/RCA-08/2021	EPI_ISL_1762058	2021	Africa / Central African Republic / Bangui		TRUE		
+hCoV-19/Central African Republic/RCA-09/2021	EPI_ISL_1762059	2021	Africa / Central African Republic / Bangui		TRUE		
+hCoV-19/Central African Republic/RCA-11/2021	EPI_ISL_1762060	2021	Africa / Central African Republic / Bangui		TRUE		
+hCoV-19/Central African Republic/RCA-12/2021	EPI_ISL_1762061	2021	Africa / Central African Republic / Bangui		TRUE		
+hCoV-19/Central African Republic/RCA-14/2021	EPI_ISL_1762062	2021	Africa / Central African Republic / Bangui		TRUE		
+hCoV-19/Central African Republic/RCA-15/2021	EPI_ISL_1762063	2021	Africa / Central African Republic / Bangui		TRUE		
+hCoV-19/Central African Republic/RCA-16/2021	EPI_ISL_1762064	2021	Africa / Central African Republic / Bangui		TRUE		
+hCoV-19/Central African Republic/RCA-18/2021	EPI_ISL_1762065	2021	Africa / Central African Republic / Bangui		TRUE		
+hCoV-19/Central African Republic/RCA-19/2021	EPI_ISL_1762066	2021	Africa / Central African Republic / Bangui				
+hCoV-19/Central African Republic/RCA-21/2021	EPI_ISL_1762067	2021	Africa / Central African Republic / Bangui		TRUE		
+hCoV-19/Central African Republic/RCA-22/2021	EPI_ISL_1762068	2021	Africa / Central African Republic / Bangui		TRUE		
+hCoV-19/Central African Republic/RCA-23/2021	EPI_ISL_1762069	2021	Africa / Central African Republic / Bangui		TRUE		
+hCoV-19/Central African Republic/RCA-24/2021	EPI_ISL_1762070	2021	Africa / Central African Republic / Bangui		TRUE		
+hCoV-19/Central African Republic/RCA-25/2021	EPI_ISL_1762071	2021	Africa / Central African Republic / Bangui				
+hCoV-19/Central African Republic/RCA-28/2021	EPI_ISL_1762072	2021	Africa / Central African Republic / Bangui		TRUE		
+hCoV-19/Central African Republic/RCA-29/2021	EPI_ISL_1762073	2021	Africa / Central African Republic / Bangui		TRUE		
+hCoV-19/Central African Republic/RCA-30/2021	EPI_ISL_1762074	2021	Africa / Central African Republic / Bangui		TRUE		
+hCoV-19/Central African Republic/RCA-32/2021	EPI_ISL_1762075	2021	Africa / Central African Republic / Bangui		TRUE		
+hCoV-19/Central African Republic/RCA-34/2021	EPI_ISL_1762076	2021	Africa / Central African Republic / Bangui		TRUE		
+hCoV-19/Central African Republic/RCA-35/2021	EPI_ISL_1762077	2021	Africa / Central African Republic / Bangui		TRUE		
+hCoV-19/Central African Republic/RCA-36/2021	EPI_ISL_1762078	2021	Africa / Central African Republic / Bangui		TRUE		
+hCoV-19/Central African Republic/RCA-38/2021	EPI_ISL_1762080	2021	Africa / Central African Republic / Bangui		TRUE		
+hCoV-19/Central African Republic/RCA-39/2021	EPI_ISL_1762081	2021	Africa / Central African Republic / Bangui				
+hCoV-19/Central African Republic/RCA-40/2021	EPI_ISL_1762082	2021	Africa / Central African Republic / Bangui				
+hCoV-19/Central African Republic/RCA-41/2021	EPI_ISL_1762083	2021	Africa / Central African Republic / Bangui				
+hCoV-19/Central African Republic/RCA-42/2021	EPI_ISL_1762084	2021	Africa / Central African Republic / Bangui		TRUE		
+hCoV-19/Central African Republic/RCA-44/2021	EPI_ISL_1762086	2021	Africa / Central African Republic / Bangui		TRUE		
+hCoV-19/Central African Republic/RCA-45/2021	EPI_ISL_1762087	2021	Africa / Central African Republic / Bangui		TRUE		
+hCoV-19/Central African Republic/RCA-46/2021	EPI_ISL_1762088	2021	Africa / Central African Republic / Bangui		TRUE		
+hCoV-19/Central African Republic/RCA-47/2021	EPI_ISL_1764144	2021	Africa / Central African Republic / Bangui		TRUE		
+hCoV-19/Central African Republic/RCA-48/2021	EPI_ISL_1764145	2021	Africa / Central African Republic / Bangui		TRUE		
+hCoV-19/Central African Republic/RCA-49/2021	EPI_ISL_1764146	2021	Africa / Central African Republic / Bangui		TRUE		
+hCoV-19/Ireland/D-NVRL-t22IRL09214/2021	EPI_ISL_1785368	2021-04-08	Europe / Ireland / Dublin			TRUE	
+hCoV-19/Central African Republic/RCA-31/2021	EPI_ISL_1788083	2021	Africa / Central African Republic / Bangui		TRUE		
+hCoV-19/France/PDL-IPP09854/2021	EPI_ISL_1789037	2021-04-13	Europe / France / Pays de La Loire / Nantes				
+hCoV-19/France/IDF-IPP10024/2021	EPI_ISL_1789089	2021-04-15	Europe / France / Ile-de-France / Pontoise				
+hCoV-19/France/IDF-IPP10025/2021	EPI_ISL_1789090	2021-04-15	Europe / France / Ile-de-France / Pontoise				
+hCoV-19/France/IDF-IPP10026/2021	EPI_ISL_1789091	2021-04-15	Europe / France / Ile-de-France / Pontoise				
+hCoV-19/France/IDF-IPP10027/2021	EPI_ISL_1789092	2021-04-15	Europe / France / Ile-de-France / Pontoise				
+hCoV-19/France/IDF-IPP10028/2021	EPI_ISL_1789093	2021-04-15	Europe / France / Ile-de-France / Pontoise				
+hCoV-19/France/IDF-IPP10029/2021	EPI_ISL_1789094	2021-04-15	Europe / France / Ile-de-France / Pontoise				
+hCoV-19/France/IDF-IPP10031/2021	EPI_ISL_1789095	2021-04-15	Europe / France / Ile-de-France / Pontoise				
+hCoV-19/France/IDF-IPP10032/2021	EPI_ISL_1789096	2021-04-15	Europe / France / Ile-de-France / Pontoise				
+hCoV-19/France/IDF-IPP10033/2021	EPI_ISL_1789097	2021-04-15	Europe / France / Ile-de-France / Pontoise				
+hCoV-19/France/CVL-IPP10037/2021	EPI_ISL_1789100	2021-04-15	Europe / France / Centre Val de Loire / Orleans				
+hCoV-19/Cameroun/Yaounde-21V-07104/2021	EPI_ISL_1790123	2021-02-10	Africa / Cameroon / Yaounde				
+hCoV-19/USA/MD-HP04756/2021	EPI_ISL_1805832	2021-04-17	North America / USA / Maryland				
+hCoV-19/Switzerland/BE-IFIK-938-9649/2021	EPI_ISL_1811302	2021-04-16	Europe / Switzerland / Bern				
+hCoV-19/France/PAC-IHU-4495-N1/2021	EPI_ISL_1817033	2021-04-13	Europe / France / Provence-Alpes-Cote d'Azur / Marseille				
+hCoV-19/France/IDF-IPP10030/2021	EPI_ISL_1821604	2021-04-15	Europe / France / Ile-De-France / Pontoise				
+hCoV-19/Lithuania/S21D866/2021	EPI_ISL_1823196	2021-04-09	Europe / Lithuania / Vilnius				
+hCoV-19/Lithuania/S21D878/2021	EPI_ISL_1823197	2021-04-05	Europe / Lithuania / Utena				
+hCoV-19/Lithuania/S21D890/2021	EPI_ISL_1823198	2021-04-10	Europe / Lithuania / Utena				
+hCoV-19/Lithuania/S21D910/2021	EPI_ISL_1823199	2021-04-12	Europe / Lithuania / Utena				
+hCoV-19/Lithuania/S21D937/2021	EPI_ISL_1823200	2021-04-12	Europe / Lithuania / Vilnius				
+hCoV-19/Lithuania/S21D949/2021	EPI_ISL_1823201	2021-04-08	Europe / Lithuania / Utena				
+hCoV-19/Belgium/UGent-4966/2021	EPI_ISL_1827069	2021-04-03	Europe / Belgium / Ghent				
+hCoV-19/Belgium/UGent-5440/2021	EPI_ISL_1827401	2021-04-11	Europe / Belgium / Ghent				
+hCoV-19/Czech Republic/NRL_6277/2021	EPI_ISL_1828718	2021-04-15	Europe / Czech Republic / Brno				
+hCoV-19/Switzerland/VD-CHUV-GEN4333/2021	EPI_ISL_1829052	2021-04-14	Europe / Switzerland / Vaud				
+hCoV-19/Switzerland/VD-CHUV-GEN4508/2021	EPI_ISL_1829167	2021-04-20	Europe / Switzerland / Vaud				
+hCoV-19/Germany/MV-RKI-I-097549/2021	EPI_ISL_1843903	2021-04-12	Europe / Germany / Mecklenburg-Western Pomerania				
+hCoV-19/Germany/HB-RKI-I-097801/2021	EPI_ISL_1844130	2021-04-13	Europe / Germany / Bremen				
+hCoV-19/Germany/HB-RKI-I-097950/2021	EPI_ISL_1844259	2021-04-17	Europe / Germany / Bremen				
+hCoV-19/Germany/BY-RKI-I-099940/2021	EPI_ISL_1845707	2021-04-20	Europe / Germany / Bavaria				
+hCoV-19/Germany/un-RKI-I-100101/2021	EPI_ISL_1845845	2021-04-05	Europe / Germany				
+hCoV-19/Germany/un-RKI-I-100182/2021	EPI_ISL_1845921	2021-04-05	Europe / Germany				
+hCoV-19/Germany/un-RKI-I-100187/2021	EPI_ISL_1845926	2021-04-05	Europe / Germany				
+hCoV-19/Germany/un-RKI-I-101755/2021	EPI_ISL_1847168	2021-04-19	Europe / Germany				
+hCoV-19/Germany/un-RKI-I-101764/2021	EPI_ISL_1847176	2021-04-19	Europe / Germany				
+hCoV-19/Germany/BY-RKI-I-109211/2021	EPI_ISL_1852817	2021-04-24	Europe / Germany / Bavaria				
+hCoV-19/Portugal/PT6926/2021	EPI_ISL_1854262	2021-04-18	Europe / Portugal				
+hCoV-19/Lithuania/S21D1391/2021	EPI_ISL_1908649	2021-04-18	Europe / Lithuania / Utena				
+hCoV-19/Lithuania/NMRVI67372/2021	EPI_ISL_1909844	2021-04-01	Europe / Lithuania / Vilniaus apskritis				
+hCoV-19/Lithuania/NMRVI69042/2021	EPI_ISL_1909875	2021-04-03	Europe / Lithuania / Vilniaus apskritis				
+hCoV-19/Lithuania/NMRVI63759/2021	EPI_ISL_1910043	2021-03-29	Europe / Lithuania / Vilniaus apskritis				
+hCoV-19/Lithuania/NMRVI69214/2021	EPI_ISL_1910156	2021-04-03	Europe / Lithuania / Vilniaus apskritis				
+hCoV-19/Lithuania/NMRVI69214/2021	EPI_ISL_1910341	2021-04-03	Europe / Lithuania / Vilniaus apskritis				
+hCoV-19/Lithuania/MB25815/2021	EPI_ISL_1911429	2021-04-09	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/NMRVI77331/2021	EPI_ISL_1911899	2021-04-10	Europe / Lithuania / Vilniaus apskritis				
+hCoV-19/Switzerland/BL-ETHZ-591306/2021	EPI_ISL_1914218	2021-04-21	Europe / Switzerland / Basel-Landschaft				
+hCoV-19/Switzerland/VD-ETHZ-590720/2021	EPI_ISL_1914219	2021-04-21	Europe / Switzerland / Vaud				
+hCoV-19/France/GES-IPP10411/2021	EPI_ISL_1915140	2021-04-16	Europe / France / Grand Est / Troyes				
+hCoV-19/France/CVL-IPP10480/2021	EPI_ISL_1915177	2021-04-20	Europe / France / Centre Val de Loire / Orleans				
+hCoV-19/Belgium/IPG-282/2021	EPI_ISL_1915592	2021-04-27	Europe / Belgium / Wallonie				
+hCoV-19/Norway/09443/2021	EPI_ISL_1919296	2021-04-09	Europe / Norway / Viken				
+hCoV-19/USA/MD-MDH-2148/2021	EPI_ISL_1936184	2021-04-19	North America / USA / Maryland				
+hCoV-19/Switzerland/VD-CHUV-GEN4599/2021	EPI_ISL_1941702	2021-04-28	Europe / Switzerland / Vaud				
+hCoV-19/Switzerland/VD-CHUV-GEN4647/2021	EPI_ISL_1941813	2021-04-26	Europe / Switzerland / Vaud				
+hCoV-19/Lithuania/LTU000_MB27407/2021	EPI_ISL_1960165	2021-04-16	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/LTU000_MB26895/2021	EPI_ISL_1960181	2021-04-14	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/LTU000_MB26927/2021	EPI_ISL_1960198	2021-04-14	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/LTU000_MB26925/2021	EPI_ISL_1960606	2021-04-14	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/LTU000_MB26934/2021	EPI_ISL_1960607	2021-04-14	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/LTU000_MB26939/2021	EPI_ISL_1960608	2021-04-14	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/LTU000_MB26930/2021	EPI_ISL_1960609	2021-04-14	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/LTU000_MB26931/2021	EPI_ISL_1960610	2021-04-14	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/LTU000_MB26926/2021	EPI_ISL_1960611	2021-04-14	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/LTU000_MB26902/2021	EPI_ISL_1960612	2021-04-14	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/LTU000_MB27454/2021	EPI_ISL_1960613	2021-04-16	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/LTU000_MB27421/2021	EPI_ISL_1960614	2021-04-16	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/LTU000_MB27430/2021	EPI_ISL_1960615	2021-04-16	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/LTU000_MB26364/2021	EPI_ISL_1960616	2021-04-12	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/LTU000_KUL5127767/2021	EPI_ISL_1960617	2021-04-13	Europe / Lithuania / Vilniaus apskritis				
+hCoV-19/Lithuania/S21D1510/2021	EPI_ISL_1969180	2021-04-04	Europe / Lithuania / Vilnius				
+hCoV-19/Czech Republic/NRL_6474/2021	EPI_ISL_1971075	2021-04-19	Europe / Czech Republic / Prague				
+hCoV-19/Cameroon/CAM-01/2021	EPI_ISL_1972305	2021-03-02	Africa / Cameroon / Yaounde				
+hCoV-19/Cameroon/CAM-02/2021	EPI_ISL_1972306	2021-03-02	Africa / Cameroon / Yaounde				
+hCoV-19/Cameroon/CAM057/2021	EPI_ISL_1972320	2021-03-03	Africa / Cameroon / Yaounde				
+hCoV-19/Cameroon/CAM077/2021	EPI_ISL_1972325	2021-03-01	Africa / Cameroon / Yaounde				
+hCoV-19/USA/MD-HP05025/2021	EPI_ISL_1973436	2021-04-21	North America / USA / Maryland				
+hCoV-19/USA/MD-HP05026/2021	EPI_ISL_1973437	2021-04-18	North America / USA / Maryland				
+hCoV-19/Switzerland/BE-UHB-42824337/2021	EPI_ISL_1993911	2021-05-02	Europe / Switzerland / Bern				
+hCoV-19/Lithuania/MR-LUHS-7-06/2021	EPI_ISL_2006715	2021-04-29	Europe / Lithuania / Panevezio				
+hCoV-19/USA/MI-CDC-STM-000061965/2021	EPI_ISL_2010575	2021-04-23	North America / USA / Michigan				
+hCoV-19/USA/MN-CDC-IBX999298680953/2021	EPI_ISL_2014315	2021-04-11	North America / USA / Minnesota				
+hCoV-19/USA/MN-CDC-IBX786360600269/2021	EPI_ISL_2014756	2021-04-14	North America / USA / Minnesota				
+hCoV-19/France/BRE-IPP10689/2021	EPI_ISL_2029615	2021-04-27	Europe / France / Bretagne / Chateaulin				
+hCoV-19/France/BRE-IPP10678/2021	EPI_ISL_2029621	2021-04-27	Europe / France / Bretagne / Chateaulin				
+hCoV-19/France/IDF-IPP10522/2021	EPI_ISL_2029629	2021-04-22	Europe / France / Ile-de-France / Puteaux				
+hCoV-19/France/IDF-IPP10517/2021	EPI_ISL_2029714	2021-04-24	Europe / France / Ile-de-France / Puteaux				
+hCoV-19/France/BRE-IPP10947/2021	EPI_ISL_2029742	2021	Europe / France / Bretagne / Quimperle				
+hCoV-19/France/CVL-IPP10930/2021	EPI_ISL_2029787	2021-04-26	Europe / France / Centre Val de Loire / Chambrey Les Tours				
+hCoV-19/France/BRE-IPP10688/2021	EPI_ISL_2029888	2021-04-27	Europe / France / Bretagne / Chateaulin				
+hCoV-19/France/BRE-IPP10686/2021	EPI_ISL_2029936	2021-04-27	Europe / France / Bretagne / Chateaulin				
+hCoV-19/France/BRE-IPP10541/2021	EPI_ISL_2029977	2021-04-27	Europe / France / Bretagne / Quimper				
+hCoV-19/France/BRE-IPP10653/2021	EPI_ISL_2030060	2021-04-27	Europe / France / Bretagne / Chateaulin				
+hCoV-19/USA/TX-CDC-ASC210031171/2021	EPI_ISL_2040330	2021-04-23	North America / USA / Texas				
+hCoV-19/USA/MN-CDC-IBX046644234037/2021	EPI_ISL_2087544	2021-04-20	North America / USA / Minnesota				
+hCoV-19/Germany/BY-MVP-000005530/2021	EPI_ISL_2094536	2021-04-01	Europe / Germany / Bavaria / Augsburg				
+hCoV-19/Lithuania/KUL005124788/2021	EPI_ISL_2095894	2021-04-06	Europe / Lithuania / Vilniaus apskritis				
+hCoV-19/Lithuania/REZUS04_12_76/2021	EPI_ISL_2095895	2021-04-12	Europe / Lithuania / Siauliu apskritis				
+hCoV-19/Lithuania/VUC36955/2021	EPI_ISL_2095896	2021-04-12	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/VUC36959/2021	EPI_ISL_2095897	2021-04-12	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/MB23945/2021	EPI_ISL_2095980	2021-03-31	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/MB24434/2021	EPI_ISL_2095981	2021-04-01	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/MB23948/2021	EPI_ISL_2095982	2021-03-31	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/MB24624/2021	EPI_ISL_2095983	2021-04-02	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/MB24896/2021	EPI_ISL_2095984	2021-04-03	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/MB24905/2021	EPI_ISL_2095985	2021-04-03	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/MB23560/2021	EPI_ISL_2095986	2021-03-29	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/MB23567/2021	EPI_ISL_2095987	2021-03-29	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/MB24459/2021	EPI_ISL_2095988	2021-03-31	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/MB24570/2021	EPI_ISL_2095989	2021-04-01	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/MB24890/2021	EPI_ISL_2095990	2021-04-03	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Belgium/UZA-UA-21050048/2021	EPI_ISL_2131284	2021-05-05	Europe / Belgium / Niel	Cameroon	1	TRUE	
+hCoV-19/Switzerland/BS-UHB-42829083/2021	EPI_ISL_2102102	2021-05-04	Europe / Switzerland / Basel-Stadt				
+hCoV-19/Switzerland/VD-CHUV-GEN4742/2021	EPI_ISL_2102132	2021-05-03	Europe / Switzerland / Vaud				
+hCoV-19/Switzerland/VD-CHUV-GEN4749/2021	EPI_ISL_2102139	2021-05-09	Europe / Switzerland / Vaud				
+hCoV-19/Switzerland/VD-CHUV-GEN4753/2021	EPI_ISL_2102142	2021-05-07	Europe / Switzerland / Vaud				
+hCoV-19/Switzerland/VS-HUG-34029054/2021	EPI_ISL_2104500	2021-04-27	Europe / Switzerland / Valais				
+hCoV-19/Switzerland/VS-HUG-34040357/2021	EPI_ISL_2104501	2021-04-28	Europe / Switzerland / Valais				
+hCoV-19/Switzerland/VS-HUG-34063983/2021	EPI_ISL_2104631	2021-04-30	Europe / Switzerland / Valais				
+hCoV-19/Germany/un-RKI-I-126040/2021	EPI_ISL_2110753	2021-04-12	Europe / Germany				
+hCoV-19/Germany/NW-RKI-I-133030/2021	EPI_ISL_2115390	2021-04-28	Europe / Germany / North Rhine-Westphalia				
+hCoV-19/England/MILK-1576498/2021	EPI_ISL_2117910	2021-05-09	Europe / United Kingdom / England				
+hCoV-19/Germany/RP-RKI-I-135596/2021	EPI_ISL_2118288	2021-05-04	Europe / Germany / Rhineland-Palatinate				
+hCoV-19/England/MILK-1567218/2021	EPI_ISL_2121107	2021-05-08	Europe / United Kingdom / England				
+hCoV-19/Germany/NW-RKI-I-137945/2021	EPI_ISL_2122527	2021-05-03	Europe / Germany / North Rhine-Westphalia				
+hCoV-19/Germany/MV-RKI-I-138362/2021	EPI_ISL_2123141	2021-04-12	Europe / Germany / Mecklenburg-Western Pomerania				
+hCoV-19/Germany/MV-RKI-I-138401/2021	EPI_ISL_2123177	2021-04-26	Europe / Germany / Mecklenburg-Western Pomerania				
+hCoV-19/Germany/un-RKI-I-139199/2021	EPI_ISL_2123767	2021-04-19	Europe / Germany				
+hCoV-19/Germany/RP-RKI-I-140336/2021	EPI_ISL_2124462	2021-05-06	Europe / Germany / Rhineland-Palatinate				
+hCoV-19/Germany/NW-RKI-I-145301/2021	EPI_ISL_2129571	2021-05-03	Europe / Germany / North Rhine-Westphalia				
+hCoV-19/Belgium/UZA-UA-21050048/2021	EPI_ISL_2131284	2021-05-05	Europe / Belgium / Niel				
+hCoV-19/DRC/15770/2021	EPI_ISL_2135847	2021	Africa / Democratic Republic of the Congo / Kinshasa				
+hCoV-19/Lithuania/IBT-LSC-VU_r06_27/2021	EPI_ISL_2136815	2021-04-12	Europe / Lithuania / Vilniaus apskritis				
+hCoV-19/Switzerland/VD-CHUV-GEN4429/2021	EPI_ISL_2137387	2021-04-23	Europe / Switzerland / Vaud				
+hCoV-19/Switzerland/VD-CHUV-GEN4425/2021	EPI_ISL_2137390	2021-04-24	Europe / Switzerland / Vaud				
+hCoV-19/Switzerland/VD-CHUV-GEN4428/2021	EPI_ISL_2137391	2021-04-23	Europe / Switzerland / Vaud				
+hCoV-19/Switzerland/VD-CHUV-GEN4727/2021	EPI_ISL_2137400	2021-05-06	Europe / Switzerland / Vaud				
+hCoV-19/Switzerland/VD-CHUV-GEN4729/2021	EPI_ISL_2137411	2021-05-06	Europe / Switzerland / Vaud				
+hCoV-19/Lithuania/IBT-LSC-VU_r08_01/2021	EPI_ISL_2138821	2021-04-26	Europe / Lithuania / Vilniaus				
+hCoV-19/Lithuania/IBT-LSC-VU_r08_02/2021	EPI_ISL_2138822	2021-04-26	Europe / Lithuania / Utenos				
+hCoV-19/Lithuania/IBT-LSC-VU_r08_12/2021	EPI_ISL_2138832	2021-04-28	Europe / Lithuania / Utenos				
+hCoV-19/Lithuania/IBT-LSC-VU_r08_28/2021	EPI_ISL_2138848	2021-04-29	Europe / Lithuania / Vilniaus				
+hCoV-19/Lithuania/IBT-LSC-VU_r08_32/2021	EPI_ISL_2138852	2021-04-26	Europe / Lithuania / Utenos				
+hCoV-19/Lithuania/IBT-LSC-VU_r08_34/2021	EPI_ISL_2138854	2021-04-27	Europe / Lithuania / Vilniaus				
+hCoV-19/Lithuania/IBT-LSC-VU_r08_37/2021	EPI_ISL_2138857	2021-04-27	Europe / Lithuania / Vilniaus				
+hCoV-19/Lithuania/IBT-LSC-VU_r08_42/2021	EPI_ISL_2138861	2021-04-28	Europe / Lithuania / Utenos				
+hCoV-19/France/IDF-HMN-21052040446/2021	EPI_ISL_2152460	2021-04-26	Europe / France / Ile-de-France				
+hCoV-19/France/GES-HMN-21042300153/2021	EPI_ISL_2152575	2021-04-27	Europe / France / Grand-Est				
+hCoV-19/France/IDF-HMN-21052030676/2021	EPI_ISL_2152589	2021-05-03	Europe / France / Ile-de-France				
+hCoV-19/Scotland/MILK-1576234/2021	EPI_ISL_2152803	2021-05-10	Europe / United Kingdom / Scotland				
+hCoV-19/Scotland/MILK-156EA19/2021	EPI_ISL_2153043	2021-05-02	Europe / United Kingdom / Scotland				
+hCoV-19/Switzerland/BE-IFIK-1164-2824/2021	EPI_ISL_2153441	2021-05-05	Europe / Switzerland / Bern				
+hCoV-19/Canada/ABPHL-11864/2021	EPI_ISL_2169486	2021-04-04	North America / Canada / Alberta				
+hCoV-19/Canada/ABPHL-12079/2021	EPI_ISL_2169676	2021-04-07	North America / Canada / Alberta				
+hCoV-19/Philippines/PH-PGC-11583/2021	EPI_ISL_2171204	2021-03-09	Asia / Philippines / Central Visayas				
+hCoV-19/USA/MN-CDC-IBX381785292539/2021	EPI_ISL_2187220	2021-04-30	North America / USA / Minnesota				
+hCoV-19/France/IDF-IPP11485/2021	EPI_ISL_2188340	2021-04-30	Europe / France / Ile-de-France / Pontoise				
+hCoV-19/France/CVL-IPP11598/2021	EPI_ISL_2188415	2021-04-30	Europe / France / Centre Val de Loire / Orleans				
+hCoV-19/France/IDF-IPP11679/2021	EPI_ISL_2188468	2021-05-04	Europe / France / Ile-de-France / Paris				
+hCoV-19/Philippines/PH-PGC-11588/2021	EPI_ISL_2188829	2021-03-09	Asia / Philippines / Central Visayas				
+hCoV-19/Belgium/UGent-5664/2021	EPI_ISL_2191990	2021-04-17	Europe / Belgium / Ghent				
+hCoV-19/Belgium/UGent-5688/2021	EPI_ISL_2192008	2021-04-19	Europe / Belgium / Ghent				
+hCoV-19/Belgium/UGent-5690/2021	EPI_ISL_2192010	2021-04-19	Europe / Belgium / Ghent				
+hCoV-19/Belgium/UGent-5708/2021	EPI_ISL_2192021	2021-04-12	Europe / Belgium / Ghent				
+hCoV-19/Belgium/UGent-5728/2021	EPI_ISL_2192037	2021-04-19	Europe / Belgium / Ghent				
+hCoV-19/Belgium/UGent-5861/2021	EPI_ISL_2192125	2021-04-20	Europe / Belgium / Ghent				
+hCoV-19/France/PDL-CHUN-0050/2021	EPI_ISL_2193991	2021-03-29	Europe / France / Pays de la Loire / Loire Atlantique				
+hCoV-19/France/PDL-CHUN-0066/2021	EPI_ISL_2194010	2021-04-14	Europe / France / Pays de la Loire / Loire Atlantique	Cameroon			
+hCoV-19/France/PDL-CHUN-0075/2021	EPI_ISL_2194021	2021-04-09	Europe / France / Pays de la Loire / Loire Atlantique				
+hCoV-19/France/PDL-CHUN-0081/2021	EPI_ISL_2194025	2021-04-12	Europe / France / Pays de la Loire / Loire Atlantique				
+hCoV-19/France/PDL-CHUN-0083/2021	EPI_ISL_2194027	2021-04-13	Europe / France / Pays de la Loire / Loire Atlantique				
+hCoV-19/France/PDL-CHUN-0084/2021	EPI_ISL_2194028	2021-04-13	Europe / France / Pays de la Loire / Loire Atlantique				
+hCoV-19/Sweden/16621642P/2021	EPI_ISL_2210205	2021-04-16	Europe / Sweden / Gavleborg				
+hCoV-19/Lithuania/IBT-LSC-VU_r09_33/2021	EPI_ISL_2226596	2021-05-03	Europe / Lithuania / Utenos				
+hCoV-19/Lithuania/IBT-LSC-VU_r09_07/2021	EPI_ISL_2226603	2021-05-04	Europe / Lithuania / Utenos				
+hCoV-19/Lithuania/IBT-LSC-VU_r09_37/2021	EPI_ISL_2226604	2021-05-04	Europe / Lithuania / Utenos				
+hCoV-19/Lithuania/IBT-LSC-VU_r09_31/2021	EPI_ISL_2226632	2021-05-07	Europe / Lithuania / Utenos				
+hCoV-19/Switzerland/NE-PMI-2114-4034/2021	EPI_ISL_2226704	2021-04-09	Europe / Switzerland / Neuchatel				
+hCoV-19/Switzerland/NE-PMI-2114-4035/2021	EPI_ISL_2226705	2021-04-09	Europe / Switzerland / Neuchatel				
+hCoV-19/Switzerland/NE-PMI-2116-1273/2021	EPI_ISL_2226720	2021-04-20	Europe / Switzerland / Neuchatel				
+hCoV-19/Lithuania/MR-LUHS-8-43/2021	EPI_ISL_2227185	2021-05-03	Europe / Lithuania / Panevezio apskritis				
+hCoV-19/France/GES-HMN-21052140365/2021	EPI_ISL_2228812	2021-05-09	Europe / France / Grand-Est				
+hCoV-19/France/IDF-HMN-21052120300/2021	EPI_ISL_2228884	2021-05-06	Europe / France / Ile-de-France				
+hCoV-19/England/MILK-1592DC8/2021	EPI_ISL_2235679	2021-05-17	Europe / United Kingdom / England				
+hCoV-19/Scotland/QEUH-156AA95/2021	EPI_ISL_2238624	2021-05-06	Europe / United Kingdom / Scotland				
+hCoV-19/Portugal/PT7413/2021	EPI_ISL_2248995	2021-05-11	Europe / Portugal				
+hCoV-19/Portugal/PT7414/2021	EPI_ISL_2248996	2021-05-11	Europe / Portugal				
+hCoV-19/USA/MN-MDH-7354/2021	EPI_ISL_2249639	2021-05-04	North America / USA / Minnesota				
+hCoV-19/Germany/BW-RKI-I-147714/2021	EPI_ISL_2259668	2021-05-04	Europe / Germany / Baden-Wurttemberg				
+hCoV-19/Germany/BW-RKI-I-147715/2021	EPI_ISL_2259669	2021-05-04	Europe / Germany / Baden-Wurttemberg				
+hCoV-19/Germany/BW-RKI-I-150875/2021	EPI_ISL_2262447	2021-04-29	Europe / Germany / Baden-Wurttemberg				
+hCoV-19/Germany/NW-RKI-I-153730/2021	EPI_ISL_2265010	2021-05-12	Europe / Germany / North Rhine-Westphalia				
+hCoV-19/Germany/NW-RKI-I-153739/2021	EPI_ISL_2265019	2021-05-12	Europe / Germany / North Rhine-Westphalia				
+hCoV-19/Germany/NW-RKI-I-154245/2021	EPI_ISL_2265478	2021-05-11	Europe / Germany / North Rhine-Westphalia				
+hCoV-19/Germany/NW-RKI-I-154336/2021	EPI_ISL_2265552	2021-05-11	Europe / Germany / North Rhine-Westphalia				
+hCoV-19/France/OCC-CHU-TLS-210611244701/2021	EPI_ISL_2278470	2021-02-25	Europe / France / Hautes-Pyrenees				
+hCoV-19/USA/NJ-CDC-IBX729398443753/2021	EPI_ISL_2283507	2021-04-15	North America / USA / New Jersey				
+hCoV-19/Ghana/WACCBIP-TRA702/2020	EPI_ISL_2285857	2021-04-14	Africa / Ghana / Accra	?			
+hCoV-19/France/ARA-HCL021090421201/2021	EPI_ISL_2289616	2021-05-11	Europe / France / Auvergne-Rhone-Alpes / Cluses				
+hCoV-19/France/CVL-IPP12088/2021	EPI_ISL_2293321	2021-05-08	Europe / France / Centre Val de Loire / Orleans				
+hCoV-19/France/CVL-IPP12089/2021	EPI_ISL_2293322	2021-05-10	Europe / France / Centre Val de Loire / Orleans				
+hCoV-19/France/CVL-IPP12090/2021	EPI_ISL_2293323	2021-05-08	Europe / France / Centre Val de Loire / Orleans				
+hCoV-19/France/CVL-IPP12278/2021	EPI_ISL_2293498	2021-05-11	Europe / France / Centre Val de Loire / Tours				
+hCoV-19/France/PDL-IPP12404/2021	EPI_ISL_2293601	2021-05-11	Europe / France / Pays de La Loire / Le Mans				
+hCoV-19/Switzerland/BS-ETHZ-620170/2021	EPI_ISL_2307734	2021-05-08	Europe / Switzerland / Basel-Stadt				
+hCoV-19/Germany/NW-RKI-I-158067/2021	EPI_ISL_2313265	2021-05-14	Europe / Germany / North Rhine-Westphalia				
+hCoV-19/Germany/NW-RKI-I-158108/2021	EPI_ISL_2313306	2021-05-17	Europe / Germany / North Rhine-Westphalia				
+hCoV-19/Germany/BW-RKI-I-160534/2021	EPI_ISL_2315648	2021-05-04	Europe / Germany / Baden-Wurttemberg				
+hCoV-19/Germany/BW-RKI-I-162089/2021	EPI_ISL_2316829	2021-05-05	Europe / Germany / Baden-Wurttemberg				
+hCoV-19/USA/MD-IGS-042111201563A/2021	EPI_ISL_2319526	2021-04-22	North America / USA / Maryland				
+hCoV-19/Switzerland/VD-CHUV-GEN5023/2021	EPI_ISL_2322955	2021-05	Europe / Switzerland / Vaud				
+hCoV-19/Switzerland/VD-CHUV-GEN5024/2021	EPI_ISL_2322956	2021-05-24	Europe / Switzerland / Vaud				
+hCoV-19/Switzerland/VD-CHUV-GEN5042/2021	EPI_ISL_2322972	2021-05-18	Europe / Switzerland / Vaud				
+hCoV-19/Czech Republic/NRL_6234_21/2021	EPI_ISL_2324821	2021-04-09	Europe / Czech Republic / Moravian-Silesian Region				
+hCoV-19/France/IDF-HMN-21052180393/2021	EPI_ISL_2333768	2021-05-11	Europe / France / Ile-de-France				
+hCoV-19/France/IDF-HMN-21052170688/2021	EPI_ISL_2334020	2021-05-10	Europe / France / Ile-de-France				
+hCoV-19/Lithuania/LTU000_VLN_ANT_05_03_16/2021	EPI_ISL_2334187	2021-04-26	Europe / Lithuania / Vilniaus apskritis				
+hCoV-19/Lithuania/LTU000_NMRVI_96348/2021	EPI_ISL_2334203	2021-04-26	Europe / Lithuania / Vilniaus apskritis				
+hCoV-19/Lithuania/LTU000_INMEDICA_377981/2021	EPI_ISL_2334588	2021-04-29	Europe / Lithuania / Vilniaus apskritis				
+hCoV-19/Lithuania/LTU000_INMEDICA_402777/2021	EPI_ISL_2334661	2021-05-08	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/LTU000_NMRVI_107911/2021	EPI_ISL_2334879	2021-05-08	Europe / Lithuania / Vilniaus apskritis				
+hCoV-19/Lithuania/LTU000_REZUS_05_04_149/2021	EPI_ISL_2334905	2021-05-05	Europe / Lithuania / Siauliu apskritis				
+hCoV-19/Lithuania/LTU000_REZUS_05_04_150/2021	EPI_ISL_2334906	2021-05-04	Europe / Lithuania / Siauliu apskritis				
+hCoV-19/Lithuania/LTU000_VU_C45658/2021	EPI_ISL_2334977	2021-05-07	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/S21E151/2021	EPI_ISL_2339513	2021-04-20	Europe / Lithuania / Utenos				
+hCoV-19/Switzerland/GE-HUG-34181168/2021	EPI_ISL_2343073	2021-05-15	Europe / Switzerland / Geneva				
+hCoV-19/Switzerland/GE-HUG-34224926/2021	EPI_ISL_2343182	2021-05-19	Europe / Switzerland / Geneva				
+hCoV-19/Switzerland/GE-HUG-34224911/2021	EPI_ISL_2343183	2021-05-19	Europe / Switzerland / Geneva				
+hCoV-19/England/MILK-15A9C2B/2021	EPI_ISL_2346864	2021-05-19	Europe / United Kingdom / England				
+hCoV-19/South Korea/KDCA4422/2021	EPI_ISL_2361095	2021-03-27	Asia / South Korea	Kenya			
+hCoV-19/South Korea/KDCA4424/2021	EPI_ISL_2361096	2021-03-31	Asia / South Korea				
+hCoV-19/South Korea/KDCA4425/2021	EPI_ISL_2361097	2021-03-31	Asia / South Korea				
+hCoV-19/South Korea/KDCA4426/2021	EPI_ISL_2361099	2021-03-31	Asia / South Korea				
+hCoV-19/South Korea/KDCA4430/2021	EPI_ISL_2361135	2021-04-15	Asia / South Korea				
+hCoV-19/South Korea/KDCA4431/2021	EPI_ISL_2361138	2021-04-14	Asia / South Korea				
+hCoV-19/South Korea/KDCA4432/2021	EPI_ISL_2361139	2021-04-14	Asia / South Korea				
+hCoV-19/South Korea/KDCA4433/2021	EPI_ISL_2361140	2021-04-15	Asia / South Korea				
+hCoV-19/South Korea/KDCA4434/2021	EPI_ISL_2361148	2021-04-12	Asia / South Korea				
+hCoV-19/South Korea/KDCA4435/2021	EPI_ISL_2361150	2021-04-11	Asia / South Korea				
+hCoV-19/South Korea/KDCA4436/2021	EPI_ISL_2361151	2021-04-13	Asia / South Korea				
+hCoV-19/South Korea/KDCA4437/2021	EPI_ISL_2361152	2021-04-11	Asia / South Korea				
+hCoV-19/South Korea/KDCA4439/2021	EPI_ISL_2361162	2021-04-21	Asia / South Korea				
+hCoV-19/South Korea/KDCA4441/2021	EPI_ISL_2361167	2021-04-21	Asia / South Korea				
+hCoV-19/South Korea/KDCA4442/2021	EPI_ISL_2361169	2021-04-22	Asia / South Korea				
+hCoV-19/South Korea/KDCA4443/2021	EPI_ISL_2361170	2021-04-20	Asia / South Korea				
+hCoV-19/South Korea/KDCA4444/2021	EPI_ISL_2361171	2021-04-19	Asia / South Korea				
+hCoV-19/South Korea/KDCA4445/2021	EPI_ISL_2361172	2021-04-19	Asia / South Korea				
+hCoV-19/South Korea/KDCA4446/2021	EPI_ISL_2361180	2021-04-21	Asia / South Korea				
+hCoV-19/South Korea/KDCA4447/2021	EPI_ISL_2361182	2021-04-22	Asia / South Korea				
+hCoV-19/South Korea/KDCA4448/2021	EPI_ISL_2361186	2021-04-22	Asia / South Korea				
+hCoV-19/South Korea/KDCA4449/2021	EPI_ISL_2361194	2021-04-20	Asia / South Korea				
+hCoV-19/South Korea/KDCA4450/2021	EPI_ISL_2361195	2021-04-20	Asia / South Korea				
+hCoV-19/South Korea/KDCA4451/2021	EPI_ISL_2361196	2021-04-21	Asia / South Korea				
+hCoV-19/South Korea/KDCA4452/2021	EPI_ISL_2361198	2021-04-22	Asia / South Korea				
+hCoV-19/South Korea/KDCA4453/2021	EPI_ISL_2361206	2021-04-23	Asia / South Korea				
+hCoV-19/South Korea/KDCA4454/2021	EPI_ISL_2361207	2021-04-23	Asia / South Korea				
+hCoV-19/South Korea/KDCA4455/2021	EPI_ISL_2361208	2021-04-16	Asia / South Korea				
+hCoV-19/South Korea/KDCA4456/2021	EPI_ISL_2361209	2021-04-15	Asia / South Korea				
+hCoV-19/South Korea/KDCA4458/2021	EPI_ISL_2361210	2021-04-25	Asia / South Korea				
+hCoV-19/South Korea/KDCA4459/2021	EPI_ISL_2361211	2021-04-25	Asia / South Korea				
+hCoV-19/South Korea/KDCA4460/2021	EPI_ISL_2361212	2021-04-25	Asia / South Korea				
+hCoV-19/South Korea/KDCA4461/2021	EPI_ISL_2361213	2021-04-26	Asia / South Korea				
+hCoV-19/South Korea/KDCA4462/2021	EPI_ISL_2361214	2021-04-21	Asia / South Korea				
+hCoV-19/South Korea/KDCA4463/2021	EPI_ISL_2361215	2021-04-23	Asia / South Korea				
+hCoV-19/South Korea/KDCA4464/2021	EPI_ISL_2361216	2021-04-23	Asia / South Korea				
+hCoV-19/South Korea/KDCA4465/2021	EPI_ISL_2361217	2021-04-27	Asia / South Korea				
+hCoV-19/South Korea/KDCA4466/2021	EPI_ISL_2361218	2021-04-26	Asia / South Korea				
+hCoV-19/South Korea/KDCA4467/2021	EPI_ISL_2361219	2021-04-26	Asia / South Korea				
+hCoV-19/South Korea/KDCA4470/2021	EPI_ISL_2361220	2021-04-27	Asia / South Korea				
+hCoV-19/South Korea/KDCA4471/2021	EPI_ISL_2361221	2021-04-27	Asia / South Korea				
+hCoV-19/South Korea/KDCA4472/2021	EPI_ISL_2361222	2021-04-27	Asia / South Korea				
+hCoV-19/South Korea/KDCA4473/2021	EPI_ISL_2361223	2021-04-27	Asia / South Korea				
+hCoV-19/South Korea/KDCA4475/2021	EPI_ISL_2361225	2021-04-27	Asia / South Korea				
+hCoV-19/South Korea/KDCA4478/2021	EPI_ISL_2361226	2021-04-30	Asia / South Korea				
+hCoV-19/South Korea/KDCA4479/2021	EPI_ISL_2361227	2021-04-26	Asia / South Korea				
+hCoV-19/South Korea/KDCA4480/2021	EPI_ISL_2361228	2021-04-24	Asia / South Korea				
+hCoV-19/South Korea/KDCA4481/2021	EPI_ISL_2361229	2021-04-29	Asia / South Korea				
+hCoV-19/South Korea/KDCA4483/2021	EPI_ISL_2361230	2021-04-29	Asia / South Korea				
+hCoV-19/South Korea/KDCA4484/2021	EPI_ISL_2361231	2021-04-27	Asia / South Korea				
+hCoV-19/South Korea/KDCA4485/2021	EPI_ISL_2361232	2021-04-30	Asia / South Korea				
+hCoV-19/South Korea/KDCA4486/2021	EPI_ISL_2361233	2021-04-27	Asia / South Korea				
+hCoV-19/South Korea/KDCA4487/2021	EPI_ISL_2361234	2021-04-29	Asia / South Korea				
+hCoV-19/South Korea/KDCA4488/2021	EPI_ISL_2361235	2021-04-30	Asia / South Korea				
+hCoV-19/South Korea/KDCA4489/2021	EPI_ISL_2361236	2021-04-28	Asia / South Korea				
+hCoV-19/South Korea/KDCA4490/2021	EPI_ISL_2361237	2021-05-05	Asia / South Korea				
+hCoV-19/South Korea/KDCA4492/2021	EPI_ISL_2361238	2021-05-03	Asia / South Korea				
+hCoV-19/South Korea/KDCA4493/2021	EPI_ISL_2361239	2021-05-04	Asia / South Korea				
+hCoV-19/South Korea/KDCA4494/2021	EPI_ISL_2361240	2021-05-05	Asia / South Korea				
+hCoV-19/South Korea/KDCA4495/2021	EPI_ISL_2361241	2021-05-02	Asia / South Korea				
+hCoV-19/South Korea/KDCA4496/2021	EPI_ISL_2361242	2021-05-01	Asia / South Korea				
+hCoV-19/South Korea/KDCA4497/2021	EPI_ISL_2361243	2021-05-07	Asia / South Korea				
+hCoV-19/South Korea/KDCA4498/2021	EPI_ISL_2361244	2021-05-09	Asia / South Korea				
+hCoV-19/South Korea/KDCA4499/2021	EPI_ISL_2361245	2021-05-09	Asia / South Korea				
+hCoV-19/South Korea/KDCA4500/2021	EPI_ISL_2361246	2021-05-06	Asia / South Korea				
+hCoV-19/South Korea/KDCA4501/2021	EPI_ISL_2361247	2021-05-07	Asia / South Korea				
+hCoV-19/South Korea/KDCA4502/2021	EPI_ISL_2361248	2021-05-07	Asia / South Korea				
+hCoV-19/South Korea/KDCA4504/2021	EPI_ISL_2361249	2021-05-08	Asia / South Korea				
+hCoV-19/South Korea/KDCA4505/2021	EPI_ISL_2361250	2021-05-09	Asia / South Korea				
+hCoV-19/South Korea/KDCA4506/2021	EPI_ISL_2361251	2021-05-08	Asia / South Korea				
+hCoV-19/South Korea/KDCA4507/2021	EPI_ISL_2361252	2021-05-07	Asia / South Korea				
+hCoV-19/South Korea/KDCA4508/2021	EPI_ISL_2361253	2021-05-06	Asia / South Korea				
+hCoV-19/South Korea/KDCA4509/2021	EPI_ISL_2361254	2021-05-06	Asia / South Korea				
+hCoV-19/South Korea/KDCA4510/2021	EPI_ISL_2361255	2021-05-06	Asia / South Korea				
+hCoV-19/South Korea/KDCA4511/2021	EPI_ISL_2361256	2021-05-09	Asia / South Korea				
+hCoV-19/South Korea/KDCA4512/2021	EPI_ISL_2361257	2021-05-05	Asia / South Korea				
+hCoV-19/South Korea/KDCA4513/2021	EPI_ISL_2361258	2021-05-07	Asia / South Korea				
+hCoV-19/South Korea/KDCA4514/2021	EPI_ISL_2361259	2021-05-03	Asia / South Korea				
+hCoV-19/South Korea/KDCA4515/2021	EPI_ISL_2361260	2021-05-04	Asia / South Korea				
+hCoV-19/South Korea/KDCA4516/2021	EPI_ISL_2361261	2021-04-27	Asia / South Korea				
+hCoV-19/South Korea/KDCA4517/2021	EPI_ISL_2361262	2021-05-07	Asia / South Korea				
+hCoV-19/South Korea/KDCA4519/2021	EPI_ISL_2361263	2021-05-04	Asia / South Korea				
+hCoV-19/South Korea/KDCA4520/2021	EPI_ISL_2361264	2021-05-08	Asia / South Korea				
+hCoV-19/South Korea/KDCA4521/2021	EPI_ISL_2361265	2021-05-09	Asia / South Korea				
+hCoV-19/Portugal/PT8046/2021	EPI_ISL_2362120	2021-05-14	Europe / Portugal				
+hCoV-19/Portugal/PT8047/2021	EPI_ISL_2362121	2021-05-14	Europe / Portugal				
+hCoV-19/Portugal/PT8048/2021	EPI_ISL_2362122	2021-05-14	Europe / Portugal				
+hCoV-19/Portugal/PT8049/2021	EPI_ISL_2362123	2021-05-14	Europe / Portugal				
+hCoV-19/Portugal/PT8050/2021	EPI_ISL_2362124	2021-05-14	Europe / Portugal				
+hCoV-19/Portugal/PT8051/2021	EPI_ISL_2362125	2021-05-14	Europe / Portugal				
+hCoV-19/Portugal/PT8052/2021	EPI_ISL_2362126	2021-05-14	Europe / Portugal				
+hCoV-19/Portugal/PT8053/2021	EPI_ISL_2362127	2021-05-14	Europe / Portugal				
+hCoV-19/Portugal/PT8054/2021	EPI_ISL_2362128	2021-05-14	Europe / Portugal				
+hCoV-19/Portugal/PT8055/2021	EPI_ISL_2362129	2021-05-14	Europe / Portugal				
+hCoV-19/Portugal/PT8056/2021	EPI_ISL_2362130	2021-05-14	Europe / Portugal				
+hCoV-19/Portugal/PT8057/2021	EPI_ISL_2362131	2021-05-14	Europe / Portugal				
+hCoV-19/Portugal/PT8058/2021	EPI_ISL_2362132	2021-05-14	Europe / Portugal				
+hCoV-19/Central African Republic/226/2021	EPI_ISL_2365407	2021-03-25	Africa / Central African Republic / Bayanga				
+hCoV-19/Central African Republic/229/2021	EPI_ISL_2365408	2021-03-29	Africa / Central African Republic / Bayanga				
+hCoV-19/Central African Republic/234/2021	EPI_ISL_2365409	2021-03-31	Africa / Central African Republic / Bayanga				
+hCoV-19/Central African Republic/235/2021	EPI_ISL_2365410	2021-03-31	Africa / Central African Republic / Bayanga				
+hCoV-19/Central African Republic/237/2021	EPI_ISL_2365411	2021-03-31	Africa / Central African Republic / Bayanga				
+hCoV-19/Central African Republic/242/2021	EPI_ISL_2365412	2021-03-31	Africa / Central African Republic / Bayanga				
+hCoV-19/Central African Republic/245/2021	EPI_ISL_2365413	2021-03-02	Africa / Central African Republic / Bayanga				
+hCoV-19/Central African Republic/249/2021	EPI_ISL_2365414	2021-04-01	Africa / Central African Republic / Bayanga				
+hCoV-19/Central African Republic/266/2021	EPI_ISL_2365415	2021-04-12	Africa / Central African Republic / Bayanga				
+hCoV-19/Central African Republic/301/2021	EPI_ISL_2365416	2021-04-22	Africa / Central African Republic / Bayanga				
+hCoV-19/Central African Republic/326/2021	EPI_ISL_2365417	2021-04-26	Africa / Central African Republic / Bayanga				
+hCoV-19/Italy/APU-POLBA70/2021	EPI_ISL_2365937	2021-04-15	Europe / Italy / Apulia				
+hCoV-19/USA/IL-CDC-ASC210066063/2021	EPI_ISL_2370500	2021-05-23	North America / USA / Illinois				
+hCoV-19/France/ARA-HCL990000293005/2021	EPI_ISL_2373927	2021-05-19	Europe / France / Auvergne-Rhone-Alpes / Lyon				
+hCoV-19/France/ARA-HCL990000295019/2021	EPI_ISL_2373932	2021-05-20	Europe / France / Auvergne-Rhone-Alpes / Lyon				
+hCoV-19/France/IDF-SLS762104068369/2021	EPI_ISL_2373973	2021-04-20	Europe / France / Ile-de-France				
+hCoV-19/France/HDF-IPP12190/2021	EPI_ISL_2374183	2021-04-20	Europe / France / Hauts-de-France / Amiens				
+hCoV-19/France/CVL-IPP12707/2021	EPI_ISL_2374411	2021-05-03	Europe / France / Centre Val de Loire / Orleans				
+hCoV-19/Germany/NW-RKI-I-163786/2021	EPI_ISL_2387453	2021-05-14	Europe / Germany / North Rhine-Westphalia				
+hCoV-19/Germany/NW-RKI-I-164932/2021	EPI_ISL_2388214	2021-05-24	Europe / Germany / North Rhine-Westphalia				
+hCoV-19/Germany/BW-RKI-I-167766/2021	EPI_ISL_2390317	2021-05-17	Europe / Germany / Baden-Wurttemberg				
+hCoV-19/Switzerland/GE-011415439201/2021	EPI_ISL_2403787	2021-05-20	Europe / Switzerland / Geneva				
+hCoV-19/France/IDF-CERBAHC-AH3KVTBGXJ-S35/2021	EPI_ISL_2421124	2021-04-12	Europe / France / Ile-de-France				
+hCoV-19/Belgium/rega-6642/2021	EPI_ISL_2424358	2021-03-29	Europe / Belgium / Vorst				
+hCoV-19/Lithuania/LTU000_VULSK_210515120063/2021	EPI_ISL_2428226	2021-05-14	Europe / Lithuania / Vilniaus apskritis				
+hCoV-19/Lithuania/LTU000_NMVRI_109762/2021	EPI_ISL_2428278	2021-05-10	Europe / Lithuania / Vilniaus apskritis				
+hCoV-19/Lithuania/LTU000_VULSK_210511121836/2021	EPI_ISL_2428316	2021-05-10	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/LTU000_MB_MB32652/2021	EPI_ISL_2428377	2021-05-14	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/LTU000_VULSK_210512121264/2021	EPI_ISL_2428383	2021-05-12	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/LTU000_INMEDICA_411686/2021	EPI_ISL_2428387	2021-05-11	Europe / Lithuania / Vilniaus apskritis				
+hCoV-19/Lithuania/IBT-LSC-VU_r11_33/2021	EPI_ISL_2428461	2021-05-17	Europe / Lithuania / Siauliu apskritis				
+hCoV-19/Lithuania/IBT-LSC-VU_r11_46/2021	EPI_ISL_2428474	2021-05-20	Europe / Lithuania / Siauliu apskritis				
+hCoV-19/Lithuania/IBT-LSC-VU_r11_09/2021	EPI_ISL_2428485	2021-05-19	Europe / Lithuania / Siauliu apskritis				
+hCoV-19/Lithuania/MR-LUHS-10-48/2021	EPI_ISL_2428501	2021-05-17	Europe / Lithuania / Panevezio apskritis				
+hCoV-19/Lithuania/S21E617/2021	EPI_ISL_2428545	2021-04-29	Europe / Lithuania / Vilniaus apskritis				
+hCoV-19/Lithuania/S21E725/2021	EPI_ISL_2428633	2021-05-06	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/S21E718/2021	EPI_ISL_2428683	2021-04-20	Europe / Lithuania / Vilniaus apskritis				
+hCoV-19/Lithuania/S21E690/2021	EPI_ISL_2428700	2021-05-08	Europe / Lithuania / Siauliu apskritis				
+hCoV-19/Lithuania/S21E882/2021	EPI_ISL_2428929	2021-05-11	Europe / Lithuania / Siauliu apskritis				
+hCoV-19/Gabon/CERMEL-DD0149/2021	EPI_ISL_2434979	2021-05-05	Africa / Gabon / Lambarene				
+hCoV-19/Gabon/CERMEL-DD0336/2021	EPI_ISL_2442363	2021-05-08	Africa / Gabon / Lambarene				
+hCoV-19/France/HDF-P261-21205M0670/2021	EPI_ISL_2444375	2021-05-21	Europe / France / Hauts-de-France				
+hCoV-19/Italy/VEN-IZSVe-21RS1311-2_BL/2021	EPI_ISL_2448513	2021-05-17	Europe / Italy / Veneto / Belluno				
+hCoV-19/Italy/VEN-IZSVe-21RS1309-5_PD/2021	EPI_ISL_2448608	2021-05-17	Europe / Italy / Veneto / Padova				
+hCoV-19/Italy/VEN-IZSVe-21RS1309-12_PD/2021	EPI_ISL_2448615	2021-05-17	Europe / Italy / Veneto / Padova				
+hCoV-19/France/PAC-IHU-9737_Illu1/2021	EPI_ISL_2453875	2021-05	Europe / France / Provence-Alpes-Cote d'Azur / Marseille				
+hCoV-19/France/IDF-IPP12871/2021	EPI_ISL_2464024	2021-05-11	Europe / France / Ile-de-France / Paris				
+hCoV-19/France/HDF-IPP13179/2021	EPI_ISL_2464209	2021-05-25	Europe / France / Hauts-de-France / Ecuires				
+hCoV-19/France/IDF-HMN-21052260428/2021	EPI_ISL_2464447	2021-05-25	Europe / France / Ile-de-France				
+hCoV-19/Germany/BW-RKI-I-168714/2021	EPI_ISL_2469565	2021-05-31	Europe / Germany / Baden-Wurttemberg				
+hCoV-19/Netherlands/GE-RIVM-36089/2021	EPI_ISL_2476304	2021-05-05	Europe / Netherlands / Gelderland				
+hCoV-19/France/ARA-HCL021097323601/2021	EPI_ISL_2482683	2021-05-20	Europe / France / Auvergne-Rhone-Alpes / Cluses				
+hCoV-19/France/ARA-HCL021097336501/2021	EPI_ISL_2482693	2021-05-20	Europe / France / Auvergne-Rhone-Alpes / Cluses				
+hCoV-19/France/ARA-HCL021097339101/2021	EPI_ISL_2482696	2021-05-20	Europe / France / Auvergne-Rhone-Alpes / Cluses				
+hCoV-19/France/ARA-HCL021097393701/2021	EPI_ISL_2482791	2021-05-25	Europe / France / Auvergne-Rhone-Alpes / Lyon				
+hCoV-19/USA/IL-CDC-ASC210105839/2021	EPI_ISL_2489681	2021-05-27	North America / USA / Illinois				
+hCoV-19/Belgium/MBLGPF541707/2021	EPI_ISL_2492427	2021-05-30	Europe / Belgium / Brussels				
+hCoV-19/Lithuania/IBT-LSC-VU_r12_07/2021	EPI_ISL_2497502	2021-05-25	Europe / Lithuania / Siauliu apskritis				
+hCoV-19/Lithuania/IBT-LSC-VU_r12_10/2021	EPI_ISL_2497505	2021-05-26	Europe / Lithuania / Siauliu apskritis				
+hCoV-19/Lithuania/IBT-LSC-VU_r12_36/2021	EPI_ISL_2497531	2021-05-29	Europe / Lithuania / Siauliu apskritis				
+hCoV-19/Lithuania/IBT-LSC-VU_r12_43/2021	EPI_ISL_2497538	2021-05-27	Europe / Lithuania / Siauliu apskritis				
+hCoV-19/Lithuania/MR-LUHS-11-15/2021	EPI_ISL_2497851	2021-05-28	Europe / Lithuania / Panevezio apskritis				
+hCoV-19/Lithuania/MR-LUHS-11-78/2021	EPI_ISL_2497856	2021-05-28	Europe / Lithuania / Panevezio apskritis				
+hCoV-19/Lithuania/MR-LUHS-11-68/2021	EPI_ISL_2497860	2021-05-25	Europe / Lithuania / Panevezio apskritis				
+hCoV-19/Lithuania/MR-LUHS-11-69/2021	EPI_ISL_2497863	2021-05-26	Europe / Lithuania / Panevezio apskritis				
+hCoV-19/Switzerland/VD-CHUV-GEN5255/2021	EPI_ISL_2500528	2021-05-31	Europe / Switzerland / Vaud				
+hCoV-19/Lithuania/LTU000_REZUS_05_18_126/2021	EPI_ISL_2509532	2021-05-18	Europe / Lithuania / Siauliu apskritis				
+hCoV-19/Lithuania/LTU000_KNS_ANT_05_24_79/2021	EPI_ISL_2509571	2021-05-18	Europe / Lithuania / Kauno apskritis				
+hCoV-19/Lithuania/LTU000_MB_MB33280/2021	EPI_ISL_2509615	2021-05-18	Europe / Lithuania / Panevezio apskritis				
+hCoV-19/Lithuania/LTU000_MP_LT124p/2021	EPI_ISL_2509666	2021-05-19	Europe / Lithuania / Panevezio apskritis				
+hCoV-19/Lithuania/LTU000_INMEDICA_439999/2021	EPI_ISL_2509802	2021-05-20	Europe / Lithuania / Alytaus apskritis				
+hCoV-19/Lithuania/LTU000_MP_LP53p/2021	EPI_ISL_2509872	2021-05-21	Europe / Lithuania / Panevezio apskritis				
+hCoV-19/France/ARA-CHUGA-1053852789/2021	EPI_ISL_2510090	2021-05-27	Europe / France / Auvergne-Rhone-Alpes / Grenoble				
+hCoV-19/Lithuania/S21E986/2021	EPI_ISL_2510701	2021-05-10	Europe / Lithuania / Utenos apskritis				
+hCoV-19/France/IDF-IPP13808/2021	EPI_ISL_2531831	2021-06-02	Europe / France / Ile-de-France / Cergy Pontoise				
+hCoV-19/France/CVL-IPP13776/2021	EPI_ISL_2532297	2021-05-25	Europe / France / Centre Val de Loire / Tours				
+hCoV-19/USA/WA-CDC-4139020-001/2021	EPI_ISL_2534007	2021-03-25	North America / USA / Washington				
+hCoV-19/USA/IN-GD-SID-C21185714/2021	EPI_ISL_2535955	2021-05-18	North America / USA / Indiana				
+hCoV-19/Czech Republic/FNB30562/2021	EPI_ISL_2545564	2021-04-16	Europe / Czech Republic / Brno				
+hCoV-19/France/IDF-CERBAHC-HTNG3AFX2-S39/2021	EPI_ISL_2562034	2021-03-30	Europe / France / Ile-de-France				
+hCoV-19/France/ARA-HCL990000210774/2021	EPI_ISL_2567523	2021-05-22	Europe / France / Auvergne-Rhone-Alpes / Lyon				
+hCoV-19/France/CVL-CERBAHC-JJ3TG-S24/2021	EPI_ISL_2600376	2021-04-26	Europe / France / Centre-Val de Loire				
+hCoV-19/Switzerland/GE-HUG-34420407/2021	EPI_ISL_2601073	2021-06-08	Europe / Switzerland / Geneva				
+hCoV-19/Italy/VEN-IZSVe-21RS1307-3_PD/2021	EPI_ISL_2604197	2021-05-13	Europe / Italy / Veneto				
+hCoV-19/Finland/6462/2021	EPI_ISL_2608762	2021-04-28	Europe / Finland / Uusimaa				
+hCoV-19/France/BRE-IPP13928/2021	EPI_ISL_2612587	2021-06-08	Europe / France / Bretagne / Chateaulin				
+hCoV-19/Belgium/ULG-16426/2021	EPI_ISL_2612806	2021-06-11	Europe / Belgium / Brussels Capital Region				
+hCoV-19/Lithuania/LTU000_KNS_ANT_05_31_51/2021	EPI_ISL_2614788	2021-05-27	Europe / Lithuania / Kauno apskritis				
+hCoV-19/Lithuania/LTU000_SL_11230601/2021	EPI_ISL_2615051	2021-05-25	Europe / Lithuania / Siauliu apskritis				
+hCoV-19/Lithuania/LTU000_VULSK_210526121290/2021	EPI_ISL_2615175	2021-05-26	Europe / Lithuania / Vilniaus apskritis				
+hCoV-19/Switzerland/VD-CHUV-GEN5386/2021	EPI_ISL_2622110	2021-06-07	Europe / Switzerland / Vaud				
+hCoV-19/Lithuania/IBT-LSC-VU_r13_07/2021	EPI_ISL_2625886	2021-05-31	Europe / Lithuania / Vilniaus apskritis				
+hCoV-19/Lithuania/IBT-LSC-VU_r13_12/2021	EPI_ISL_2625891	2021-05-31	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/IBT-LSC-VU_r13_13/2021	EPI_ISL_2625892	2021-05-31	Europe / Lithuania / Vilniaus apskritis				
+hCoV-19/Lithuania/IBT-LSC-VU_r13_15/2021	EPI_ISL_2625894	2021-06-01	Europe / Lithuania / Vilniaus apskritis				
+hCoV-19/Lithuania/IBT-LSC-VU_r13_17/2021	EPI_ISL_2625896	2021-06-01	Europe / Lithuania / Panevezio apskritis				
+hCoV-19/Lithuania/IBT-LSC-VU_r13_20/2021	EPI_ISL_2625898	2021-06-02	Europe / Lithuania / Taurages apskritis				
+hCoV-19/Lithuania/IBT-LSC-VU_r13_25/2021	EPI_ISL_2625903	2021-05-29	Europe / Lithuania / Panevezio apskritis				
+hCoV-19/Lithuania/IBT-LSC-VU_r13_28/2021	EPI_ISL_2625906	2021-05-31	Europe / Lithuania / Panevezio apskritis				
+hCoV-19/Lithuania/IBT-LSC-VU_r13_32/2021	EPI_ISL_2625909	2021-06-02	Europe / Lithuania / Panevezio apskritis				
+hCoV-19/Lithuania/IBT-LSC-VU_r13_34/2021	EPI_ISL_2625911	2021-06-03	Europe / Lithuania / Panevezio apskritis				
+hCoV-19/Lithuania/IBT-LSC-VU_r13_35/2021	EPI_ISL_2625912	2021-06-04	Europe / Lithuania / Siauliu apskritis				
+hCoV-19/Lithuania/IBT-LSC-VU_r13_46/2021	EPI_ISL_2625922	2021-06-03	Europe / Lithuania / Taurages apskritis				
+hCoV-19/Lithuania/IBT-LSC-VU_r13_48/2021	EPI_ISL_2625924	2021-06-03	Europe / Lithuania / Siauliu apskritis				
+hCoV-19/France/IDF-IPP14003/2021	EPI_ISL_2627977	2021-06-08	Europe / France / Ile-de-France / Cergy Pontoise				
+hCoV-19/France/NAQ-HCL021105780701/2021	EPI_ISL_2629288	2021-06-05	Europe / France / Nouvelle-Aquitaine / Notre-Dame-de-Sanilhac				
+hCoV-19/Germany/HH-RKI-I-180358/2021	EPI_ISL_2636756	2021-06-08	Europe / Germany / Hamburg				
+hCoV-19/France/IDF-HMN-21062090193/2021	EPI_ISL_2637798	2021-05-18	Europe / France / Ile-de-France				
+hCoV-19/France/IDF-HMN-21062100109/2021	EPI_ISL_2637863	2021-06-07	Europe / France / Ile-de-France				
+hCoV-19/Italy/VEN-IZSVe-21RS1435-1_BL/2021	EPI_ISL_2638158	2021-05-12	Europe / Italy / Veneto				
+hCoV-19/Lithuania/IBT-LSC-VU_r14_40/2021	EPI_ISL_2644773	2021-06-07	Europe / Lithuania / Siauliu				
+hCoV-19/Lithuania/IBT-LSC-VU_r14_31/2021	EPI_ISL_2644782	2021-06-07	Europe / Lithuania / Kauno				
+hCoV-19/Lithuania/IBT-LSC-VU_r14_42/2021	EPI_ISL_2644783	2021-06-07	Europe / Lithuania / Siauliu				
+hCoV-19/Lithuania/IBT-LSC-VU_r14_19/2021	EPI_ISL_2644793	2021-06-08	Europe / Lithuania / Siauliu				
+hCoV-19/Lithuania/IBT-LSC-VU_r14_21/2021	EPI_ISL_2644798	2021-06-08	Europe / Lithuania / Marijampoles				
+hCoV-19/Lithuania/IBT-LSC-VU_r14_13/2021	EPI_ISL_2644812	2021-06-11	Europe / Lithuania / Siauliu				
+hCoV-19/Lithuania/IBT-LSC-VU_r14_25/2021	EPI_ISL_2644813	2021-06-11	Europe / Lithuania / Siauliu				
+hCoV-19/Lithuania/IBT-LSC-VU_r14_15/2021	EPI_ISL_2644818	2021-06-11	Europe / Lithuania / Panevezio				
+hCoV-19/Lithuania/IBT-LSC-VU_r14_39/2021	EPI_ISL_2644819	2021-06-12	Europe / Lithuania / Siauliu				
+hCoV-19/Hong Kong/VM21029196/2021	EPI_ISL_2651126	2021-06-05	Asia / Hong Kong				
+hCoV-19/France/ARA-HCL021111664001/2021	EPI_ISL_2676744	2021-06-14	Europe / France / Auvergne-Rhone-Alpes / CLUSES				
+hCoV-19/France/ARA-HCL021111668101/2021	EPI_ISL_2676746	2021-06-14	Europe / France / Auvergne-Rhone-Alpes / CLUSES				
+hCoV-19/France/ARA-HCL021111718901/2021	EPI_ISL_2676761	2021-06-14	Europe / France / Auvergne-Rhone-Alpes / CLUSES				
+hCoV-19/France/ARA-HCL021111733201/2021	EPI_ISL_2676765	2021-06-14	Europe / France / Auvergne-Rhone-Alpes / CLUSES				
+hCoV-19/Belgium/ULG-16502/2021	EPI_ISL_2685881	2021-06-03	Europe / Belgium / Liege				
+hCoV-19/Switzerland/VD-CHUV-GEN5425/2021	EPI_ISL_2686828	2021-06-16	Europe / Switzerland / Vaud				
+hCoV-19/France/NOR-11615376/2021	EPI_ISL_2688650	2021-04-19	Europe / France / Normandie				
+hCoV-19/France/NOR-11635690/2021	EPI_ISL_2688652	2021-04-09	Europe / France / Normandie				
+hCoV-19/France/NOR-11645459/2021	EPI_ISL_2688653	2021-04-22	Europe / France / Normandie				
+hCoV-19/France/NOR-11816013/2021	EPI_ISL_2688663	2021-05-03	Europe / France / Normandie				
+hCoV-19/France/NOR-76061751/2021	EPI_ISL_2688698	2021-05-14	Europe / France / Normandie				
+hCoV-19/France/NOR-76350913/2021	EPI_ISL_2688759	2021-04-18	Europe / France / Normandie				
+hCoV-19/France/NOR-76350931/2021	EPI_ISL_2688760	2021-04-18	Europe / France / Normandie				
+hCoV-19/France/NOR-76351534/2021	EPI_ISL_2688761	2021-04-20	Europe / France / Normandie				
+hCoV-19/France/NOR-76351595/2021	EPI_ISL_2688762	2021-04-20	Europe / France / Normandie				
+hCoV-19/France/NOR-76366244/2021	EPI_ISL_2688785	2021-05-14	Europe / France / Normandie				
+hCoV-19/France/NOR-76366318/2021	EPI_ISL_2688786	2021-05-14	Europe / France / Normandie				
+hCoV-19/Germany/HH-p7273/2021	EPI_ISL_2689476	2021-06-04	Europe / Germany / Hamburg				
+hCoV-19/Lithuania/LTU000_REZUS_06_03_70/2021	EPI_ISL_2693984	2021-06-03	Europe / Lithuania / Siauliu apskritis				
+hCoV-19/Lithuania/LTU000_REZUS_06_02_46/2021	EPI_ISL_2694022	2021-06-02	Europe / Lithuania / Siauliu apskritis				
+hCoV-19/Lithuania/LTU000_RSL_COV075397/2021	EPI_ISL_2694039	2021-06-02	Europe / Lithuania / Siauliu apskritis				
+hCoV-19/Lithuania/LTU000_RSL_11244067/2021	EPI_ISL_2694040	2021-06-04	Europe / Lithuania / Siauliu apskritis				
+hCoV-19/Lithuania/LTU000_RSL_COV075644/2021	EPI_ISL_2694071	2021-06-03	Europe / Lithuania / Siauliu apskritis				
+hCoV-19/Lithuania/LTU000_INMEDICA_464843/2021	EPI_ISL_2694106	2021-06-01	Europe / Lithuania / Utenos apskritis				
+hCoV-19/Lithuania/LTU000_RSL_11244072/2021	EPI_ISL_2694533	2021-06-04	Europe / Lithuania / Siauliu apskritis				
+hCoV-19/Lithuania/LTU000_REZUS_06_04_9/2021	EPI_ISL_2694542	2021-06-04	Europe / Lithuania / Siauliu apskritis				
+hCoV-19/Lithuania/LTU000_REZUS_06_05_50/2021	EPI_ISL_2694563	2021-06-05	Europe / Lithuania / Siauliu apskritis				
+hCoV-19/Lithuania/LTU000_REZUS_06_05_A147/2021	EPI_ISL_2694564	2021-06-05	Europe / Lithuania / Panevezio apskritis				
+hCoV-19/Lithuania/LTU000_REZUS_06_02_47/2021	EPI_ISL_2694565	2021-06-02	Europe / Lithuania / Siauliu apskritis				
+hCoV-19/Lithuania/LTU000_MP_FP13/2021	EPI_ISL_2694566	2021-06-04	Europe / Lithuania / Panevezio apskritis				
+hCoV-19/Lithuania/LTU000_NMRVI_123767/2021	EPI_ISL_2694567	2021-06-01	Europe / Lithuania / Vilniaus apskritis				
+hCoV-19/Lithuania/LTU000_BM_32A/2021	EPI_ISL_2694568	2021-06-01	Europe / Lithuania / Siauliu apskritis				
+hCoV-19/Lithuania/LTU000_NMRVI_123158/2021	EPI_ISL_2694569	2021-05-31	Europe / Lithuania / Vilniaus apskritis				
+hCoV-19/Lithuania/LTU000_MP_VA18p/2021	EPI_ISL_2694570	2021-06-01	Europe / Lithuania / Panevezio apskritis				
+hCoV-19/Lithuania/LTU000_MP_VA41p/2021	EPI_ISL_2694571	2021-06-01	Europe / Lithuania / Vilniaus apskritis				
+hCoV-19/Lithuania/LTU000_MP_WM69p/2021	EPI_ISL_2694572	2021-05-31	Europe / Lithuania / Panevezio apskritis				
+hCoV-19/Lithuania/LTU000_RSL_COV075396/2021	EPI_ISL_2694573	2021-06-02	Europe / Lithuania / Siauliu apskritis				
+hCoV-19/Lithuania/LTU000_REZUS_06_03_31/2021	EPI_ISL_2694575	2021-06-03	Europe / Lithuania / Siauliu apskritis				
+hCoV-19/Lithuania/LTU000_NMRVI_125878/2021	EPI_ISL_2694576	2021-06-05	Europe / Lithuania / Vilniaus apskritis				
+hCoV-19/Lithuania/LTU000_MP_FP17/2021	EPI_ISL_2694577	2021-06-04	Europe / Lithuania / Panevezio apskritis				
+hCoV-19/Lithuania/LTU000_INMEDICA_475246/2021	EPI_ISL_2694578	2021-06-05	Europe / Lithuania / Utenos apskritis				
+hCoV-19/South Korea/KDCA4630/2021	EPI_ISL_2710384	2021-04-24	Asia / South Korea				
+hCoV-19/South Korea/KDCA4631/2021	EPI_ISL_2710385	2021-04-26	Asia / South Korea				
+hCoV-19/South Korea/KDCA4632/2021	EPI_ISL_2710386	2021-04-29	Asia / South Korea				
+hCoV-19/South Korea/KDCA4634/2021	EPI_ISL_2710387	2021-05-02	Asia / South Korea				
+hCoV-19/South Korea/KDCA4635/2021	EPI_ISL_2710388	2021-05-04	Asia / South Korea				
+hCoV-19/South Korea/KDCA4636/2021	EPI_ISL_2710389	2021-05-05	Asia / South Korea				
+hCoV-19/South Korea/KDCA4637/2021	EPI_ISL_2710390	2021-05-05	Asia / South Korea				
+hCoV-19/South Korea/KDCA4639/2021	EPI_ISL_2710391	2021-05-06	Asia / South Korea				
+hCoV-19/South Korea/KDCA4640/2021	EPI_ISL_2710392	2021-05-06	Asia / South Korea				
+hCoV-19/South Korea/KDCA4641/2021	EPI_ISL_2710393	2021-05-08	Asia / South Korea				
+hCoV-19/South Korea/KDCA4642/2021	EPI_ISL_2710394	2021-05-09	Asia / South Korea				
+hCoV-19/South Korea/KDCA4643/2021	EPI_ISL_2710395	2021-05-10	Asia / South Korea				
+hCoV-19/South Korea/KDCA4644/2021	EPI_ISL_2710396	2021-05-10	Asia / South Korea				
+hCoV-19/South Korea/KDCA4646/2021	EPI_ISL_2710397	2021-05-12	Asia / South Korea				
+hCoV-19/South Korea/KDCA4647/2021	EPI_ISL_2710398	2021-05-13	Asia / South Korea				
+hCoV-19/South Korea/KDCA4648/2021	EPI_ISL_2710399	2021-05-12	Asia / South Korea				
+hCoV-19/South Korea/KDCA4649/2021	EPI_ISL_2710400	2021-05-13	Asia / South Korea				
+hCoV-19/South Korea/KDCA4650/2021	EPI_ISL_2710401	2021-05-12	Asia / South Korea				
+hCoV-19/South Korea/KDCA4653/2021	EPI_ISL_2710402	2021-05-14	Asia / South Korea				
+hCoV-19/South Korea/KDCA4654/2021	EPI_ISL_2710403	2021-05-14	Asia / South Korea				
+hCoV-19/South Korea/KDCA4657/2021	EPI_ISL_2710404	2021-05-14	Asia / South Korea				
+hCoV-19/South Korea/KDCA4659/2021	EPI_ISL_2710405	2021-05-14	Asia / South Korea				
+hCoV-19/South Korea/KDCA4660/2021	EPI_ISL_2710406	2021-05-14	Asia / South Korea				
+hCoV-19/South Korea/KDCA4661/2021	EPI_ISL_2710407	2021-05-14	Asia / South Korea				
+hCoV-19/South Korea/KDCA4662/2021	EPI_ISL_2710408	2021-05-14	Asia / South Korea				
+hCoV-19/South Korea/KDCA4664/2021	EPI_ISL_2710409	2021-05-17	Asia / South Korea				
+hCoV-19/South Korea/KDCA4665/2021	EPI_ISL_2710410	2021-05-17	Asia / South Korea				
+hCoV-19/South Korea/KDCA4666/2021	EPI_ISL_2710411	2021-05-17	Asia / South Korea				
+hCoV-19/South Korea/KDCA4668/2021	EPI_ISL_2710412	2021-05-18	Asia / South Korea				
+hCoV-19/South Korea/KDCA4670/2021	EPI_ISL_2710413	2021-05-18	Asia / South Korea				
+hCoV-19/South Korea/KDCA4671/2021	EPI_ISL_2710414	2021-05-17	Asia / South Korea				
+hCoV-19/South Korea/KDCA4672/2021	EPI_ISL_2710415	2021-05-19	Asia / South Korea				
+hCoV-19/South Korea/KDCA4673/2021	EPI_ISL_2710416	2021-05-18	Asia / South Korea				
+hCoV-19/South Korea/KDCA4674/2021	EPI_ISL_2710417	2021-05-18	Asia / South Korea				
+hCoV-19/South Korea/KDCA4675/2021	EPI_ISL_2710418	2021-05-19	Asia / South Korea				
+hCoV-19/South Korea/KDCA4676/2021	EPI_ISL_2710419	2021-05-19	Asia / South Korea				
+hCoV-19/South Korea/KDCA4677/2021	EPI_ISL_2710420	2021-05-18	Asia / South Korea				
+hCoV-19/South Korea/KDCA4678/2021	EPI_ISL_2710421	2021-05-19	Asia / South Korea				
+hCoV-19/South Korea/KDCA4679/2021	EPI_ISL_2710422	2021-05-20	Asia / South Korea				
+hCoV-19/South Korea/KDCA4680/2021	EPI_ISL_2710423	2021-05-20	Asia / South Korea				
+hCoV-19/South Korea/KDCA4681/2021	EPI_ISL_2710424	2021-05-20	Asia / South Korea				
+hCoV-19/South Korea/KDCA4682/2021	EPI_ISL_2710425	2021-05-20	Asia / South Korea				
+hCoV-19/South Korea/KDCA4683/2021	EPI_ISL_2710426	2021-05-19	Asia / South Korea				
+hCoV-19/South Korea/KDCA4684/2021	EPI_ISL_2710427	2021-05-20	Asia / South Korea				
+hCoV-19/South Korea/KDCA4685/2021	EPI_ISL_2710428	2021-05-20	Asia / South Korea				
+hCoV-19/South Korea/KDCA4686/2021	EPI_ISL_2710429	2021-05-20	Asia / South Korea				
+hCoV-19/South Korea/KDCA4687/2021	EPI_ISL_2710430	2021-05-21	Asia / South Korea				
+hCoV-19/South Korea/KDCA4688/2021	EPI_ISL_2710431	2021-05-21	Asia / South Korea				
+hCoV-19/South Korea/KDCA4689/2021	EPI_ISL_2710432	2021-05-21	Asia / South Korea				
+hCoV-19/South Korea/KDCA4690/2021	EPI_ISL_2710433	2021-05-22	Asia / South Korea				
+hCoV-19/South Korea/KDCA4691/2021	EPI_ISL_2710434	2021-05-22	Asia / South Korea				
+hCoV-19/South Korea/KDCA4692/2021	EPI_ISL_2710435	2021-05-21	Asia / South Korea				
+hCoV-19/South Korea/KDCA4693/2021	EPI_ISL_2710436	2021-05-22	Asia / South Korea				
+hCoV-19/South Korea/KDCA4694/2021	EPI_ISL_2710437	2021-05-22	Asia / South Korea				
+hCoV-19/South Korea/KDCA4695/2021	EPI_ISL_2710438	2021-05-22	Asia / South Korea				
+hCoV-19/South Korea/KDCA4697/2021	EPI_ISL_2710439	2021-05-23	Asia / South Korea				
+hCoV-19/South Korea/KDCA4698/2021	EPI_ISL_2710440	2021-05-23	Asia / South Korea				
+hCoV-19/South Korea/KDCA4699/2021	EPI_ISL_2710441	2021-05-23	Asia / South Korea				
+hCoV-19/South Korea/KDCA4700/2021	EPI_ISL_2710442	2021-05-24	Asia / South Korea				
+hCoV-19/South Korea/KDCA4701/2021	EPI_ISL_2710443	2021-05-23	Asia / South Korea				
+hCoV-19/South Korea/KDCA4702/2021	EPI_ISL_2710444	2021-05-23	Asia / South Korea				
+hCoV-19/South Korea/KDCA4703/2021	EPI_ISL_2710445	2021-05-24	Asia / South Korea				
+hCoV-19/South Korea/KDCA4705/2021	EPI_ISL_2710446	2021-05-25	Asia / South Korea				
+hCoV-19/South Korea/KDCA4706/2021	EPI_ISL_2710447	2021-05-25	Asia / South Korea				
+hCoV-19/South Korea/KDCA4707/2021	EPI_ISL_2710448	2021-05-25	Asia / South Korea				
+hCoV-19/South Korea/KDCA4708/2021	EPI_ISL_2710449	2021-05-25	Asia / South Korea				
+hCoV-19/South Korea/KDCA4709/2021	EPI_ISL_2710450	2021-05-25	Asia / South Korea				
+hCoV-19/South Korea/KDCA4710/2021	EPI_ISL_2710451	2021-05-25	Asia / South Korea				
+hCoV-19/South Korea/KDCA4711/2021	EPI_ISL_2710452	2021-05-25	Asia / South Korea				
+hCoV-19/South Korea/KDCA4712/2021	EPI_ISL_2710453	2021-05-26	Asia / South Korea				
+hCoV-19/South Korea/KDCA4713/2021	EPI_ISL_2710454	2021-05-26	Asia / South Korea				
+hCoV-19/South Korea/KDCA4714/2021	EPI_ISL_2710455	2021-05-25	Asia / South Korea				
+hCoV-19/South Korea/KDCA4716/2021	EPI_ISL_2710456	2021-05-26	Asia / South Korea				
+hCoV-19/South Korea/KDCA4717/2021	EPI_ISL_2710457	2021-05-26	Asia / South Korea				
+hCoV-19/South Korea/KDCA4718/2021	EPI_ISL_2710458	2021-05-26	Asia / South Korea				
+hCoV-19/South Korea/KDCA4720/2021	EPI_ISL_2710459	2021-05-26	Asia / South Korea				
+hCoV-19/South Korea/KDCA4721/2021	EPI_ISL_2710460	2021-05-26	Asia / South Korea				
+hCoV-19/South Korea/KDCA4722/2021	EPI_ISL_2710461	2021-05-26	Asia / South Korea				
+hCoV-19/South Korea/KDCA4723/2021	EPI_ISL_2710462	2021-05-26	Asia / South Korea				
+hCoV-19/South Korea/KDCA4724/2021	EPI_ISL_2710463	2021-05-27	Asia / South Korea				
+hCoV-19/South Korea/KDCA4725/2021	EPI_ISL_2710464	2021-05-26	Asia / South Korea				
+hCoV-19/South Korea/KDCA4726/2021	EPI_ISL_2710465	2021-05-26	Asia / South Korea				
+hCoV-19/South Korea/KDCA4727/2021	EPI_ISL_2710466	2021-05-27	Asia / South Korea				
+hCoV-19/South Korea/KDCA4728/2021	EPI_ISL_2710467	2021-05-28	Asia / South Korea				
+hCoV-19/South Korea/KDCA4730/2021	EPI_ISL_2710468	2021-05-27	Asia / South Korea				
+hCoV-19/South Korea/KDCA4731/2021	EPI_ISL_2710469	2021-05-28	Asia / South Korea				
+hCoV-19/South Korea/KDCA4733/2021	EPI_ISL_2710470	2021-05-27	Asia / South Korea				
+hCoV-19/South Korea/KDCA4734/2021	EPI_ISL_2710471	2021-05-27	Asia / South Korea				
+hCoV-19/South Korea/KDCA4735/2021	EPI_ISL_2710472	2021-05-27	Asia / South Korea				
+hCoV-19/South Korea/KDCA4736/2021	EPI_ISL_2710473	2021-05-27	Asia / South Korea				
+hCoV-19/South Korea/KDCA4737/2021	EPI_ISL_2710474	2021-05-28	Asia / South Korea				
+hCoV-19/South Korea/KDCA4739/2021	EPI_ISL_2710475	2021-05-29	Asia / South Korea				
+hCoV-19/South Korea/KDCA4741/2021	EPI_ISL_2710476	2021-05-30	Asia / South Korea				
+hCoV-19/South Korea/KDCA4742/2021	EPI_ISL_2710477	2021-05-30	Asia / South Korea				
+hCoV-19/South Korea/KDCA4743/2021	EPI_ISL_2710478	2021-05-30	Asia / South Korea				
+hCoV-19/South Korea/KDCA4744/2021	EPI_ISL_2710479	2021-05-30	Asia / South Korea				
+hCoV-19/South Korea/KDCA4745/2021	EPI_ISL_2710480	2021-05-30	Asia / South Korea				
+hCoV-19/South Korea/KDCA4746/2021	EPI_ISL_2710481	2021-05-29	Asia / South Korea				
+hCoV-19/South Korea/KDCA4747/2021	EPI_ISL_2710482	2021-05-29	Asia / South Korea				
+hCoV-19/South Korea/KDCA4748/2021	EPI_ISL_2710483	2021-05-30	Asia / South Korea				
+hCoV-19/South Korea/KDCA4749/2021	EPI_ISL_2710484	2021-05-30	Asia / South Korea				
+hCoV-19/South Korea/KDCA4750/2021	EPI_ISL_2710485	2021-05-30	Asia / South Korea				
+hCoV-19/South Korea/KDCA4751/2021	EPI_ISL_2710486	2021-05-31	Asia / South Korea				
+hCoV-19/South Korea/KDCA4752/2021	EPI_ISL_2710487	2021-05-31	Asia / South Korea				
+hCoV-19/South Korea/KDCA4753/2021	EPI_ISL_2710488	2021-05-31	Asia / South Korea				
+hCoV-19/South Korea/KDCA4755/2021	EPI_ISL_2710490	2021-05-31	Asia / South Korea				
+hCoV-19/South Korea/KDCA4756/2021	EPI_ISL_2710491	2021-05-31	Asia / South Korea				
+hCoV-19/South Korea/KDCA4757/2021	EPI_ISL_2710492	2021-05-31	Asia / South Korea				
+hCoV-19/South Korea/KDCA4758/2021	EPI_ISL_2710493	2021-05-31	Asia / South Korea				
+hCoV-19/South Korea/KDCA4759/2021	EPI_ISL_2710494	2021-05-31	Asia / South Korea				
+hCoV-19/South Korea/KDCA4760/2021	EPI_ISL_2710495	2021-06-01	Asia / South Korea				
+hCoV-19/South Korea/KDCA4761/2021	EPI_ISL_2710496	2021-05-31	Asia / South Korea				
+hCoV-19/South Korea/KDCA4762/2021	EPI_ISL_2710497	2021-05-31	Asia / South Korea				
+hCoV-19/South Korea/KDCA4763/2021	EPI_ISL_2710498	2021-05-31	Asia / South Korea				
+hCoV-19/South Korea/KDCA4764/2021	EPI_ISL_2710499	2021-05-31	Asia / South Korea				
+hCoV-19/South Korea/KDCA4765/2021	EPI_ISL_2710500	2021-06-01	Asia / South Korea				
+hCoV-19/South Korea/KDCA4766/2021	EPI_ISL_2710501	2021-06-01	Asia / South Korea				
+hCoV-19/South Korea/KDCA4767/2021	EPI_ISL_2710502	2021-06-01	Asia / South Korea				
+hCoV-19/South Korea/KDCA4768/2021	EPI_ISL_2710503	2021-06-01	Asia / South Korea				
+hCoV-19/South Korea/KDCA4769/2021	EPI_ISL_2710504	2021-06-01	Asia / South Korea				
+hCoV-19/South Korea/KDCA4770/2021	EPI_ISL_2710505	2021-06-01	Asia / South Korea				
+hCoV-19/South Korea/KDCA4772/2021	EPI_ISL_2710507	2021-06-02	Asia / South Korea				
+hCoV-19/South Korea/KDCA4773/2021	EPI_ISL_2710508	2021-06-02	Asia / South Korea				
+hCoV-19/South Korea/KDCA4774/2021	EPI_ISL_2710509	2021-06-01	Asia / South Korea				
+hCoV-19/South Korea/KDCA4775/2021	EPI_ISL_2710510	2021-06-02	Asia / South Korea				
+hCoV-19/South Korea/KDCA4778/2021	EPI_ISL_2710512	2021-06-02	Asia / South Korea				
+hCoV-19/South Korea/KDCA4779/2021	EPI_ISL_2710513	2021-06-02	Asia / South Korea				
+hCoV-19/South Korea/KDCA4781/2021	EPI_ISL_2710514	2021-06-02	Asia / South Korea				
+hCoV-19/South Korea/KDCA4782/2021	EPI_ISL_2710515	2021-06-02	Asia / South Korea				
+hCoV-19/South Korea/KDCA4783/2021	EPI_ISL_2710516	2021-06-03	Asia / South Korea				
+hCoV-19/South Korea/KDCA4785/2021	EPI_ISL_2710518	2021-06-03	Asia / South Korea				
+hCoV-19/South Korea/KDCA4786/2021	EPI_ISL_2710519	2021-06-03	Asia / South Korea				
+hCoV-19/South Korea/KDCA4789/2021	EPI_ISL_2710521	2021-06-04	Asia / South Korea				
+hCoV-19/South Korea/KDCA4790/2021	EPI_ISL_2710522	2021-06-03	Asia / South Korea				
+hCoV-19/South Korea/KDCA4792/2021	EPI_ISL_2710523	2021-06-04	Asia / South Korea				
+hCoV-19/South Korea/KDCA4793/2021	EPI_ISL_2710524	2021-06-05	Asia / South Korea				
+hCoV-19/South Korea/KDCA4794/2021	EPI_ISL_2710525	2021-06-04	Asia / South Korea				
+hCoV-19/South Korea/KDCA4795/2021	EPI_ISL_2710526	2021-06-06	Asia / South Korea				
+hCoV-19/South Korea/KDCA4797/2021	EPI_ISL_2710528	2021-06-05	Asia / South Korea				
+hCoV-19/South Korea/KDCA4798/2021	EPI_ISL_2710529	2021-06-06	Asia / South Korea				
+hCoV-19/South Korea/KDCA4799/2021	EPI_ISL_2710530	2021-06-07	Asia / South Korea				
+hCoV-19/South Korea/KDCA4800/2021	EPI_ISL_2710531	2021-06-07	Asia / South Korea				
+hCoV-19/South Korea/KDCA4803/2021	EPI_ISL_2710534	2021-06-07	Asia / South Korea				
+hCoV-19/South Korea/KDCA4804/2021	EPI_ISL_2710535	2021-06-07	Asia / South Korea				
+hCoV-19/South Korea/KDCA4805/2021	EPI_ISL_2710536	2021-06-08	Asia / South Korea				
+hCoV-19/South Korea/KDCA4806/2021	EPI_ISL_2710537	2021-06-08	Asia / South Korea				
+hCoV-19/South Korea/KDCA4807/2021	EPI_ISL_2710538	2021-06-09	Asia / South Korea				
+hCoV-19/South Korea/KDCA4808/2021	EPI_ISL_2710539	2021-06-09	Asia / South Korea				
+hCoV-19/South Korea/KDCA4809/2021	EPI_ISL_2710540	2021-06-09	Asia / South Korea				
+hCoV-19/South Korea/KDCA4810/2021	EPI_ISL_2710541	2021-06-09	Asia / South Korea				
+hCoV-19/South Korea/KDCA4811/2021	EPI_ISL_2710542	2021-06-08	Asia / South Korea				
+hCoV-19/South Korea/KDCA4812/2021	EPI_ISL_2710543	2021-06-09	Asia / South Korea				
+hCoV-19/South Korea/KDCA4814/2021	EPI_ISL_2710544	2021-06-11	Asia / South Korea				
+hCoV-19/South Korea/KDCA4816/2021	EPI_ISL_2710545	2021-06-12	Asia / South Korea				
+hCoV-19/South Korea/KDCA4817/2021	EPI_ISL_2710546	2021-06-13	Asia / South Korea				
+hCoV-19/South Korea/KDCA4818/2021	EPI_ISL_2710547	2021-06-14	Asia / South Korea				
+hCoV-19/South Korea/KDCA4821/2021	EPI_ISL_2710548	2021-06-14	Asia / South Korea				
+hCoV-19/South Korea/KDCA4822/2021	EPI_ISL_2710549	2021-06-15	Asia / South Korea				
+hCoV-19/Belgium/rega-9607/2021	EPI_ISL_2725686	2021-05-14	Europe / Belgium / Schaarbeek				
+hCoV-19/Belgium/rega-8902/2021	EPI_ISL_2726487	2021-05-08	Europe / Belgium / Jette				
+hCoV-19/Switzerland/VS-ICH-2210635684/2021	EPI_ISL_2731292	2021-06-16	Europe / Switzerland / Valais				
+hCoV-19/England/PHEC-311DD5/2021	EPI_ISL_2743137	2021	Europe / United Kingdom / England				
+hCoV-19/Northern Ireland/PHEC-L304LD5D/2021	EPI_ISL_2749028	2021	Europe / United Kingdom / Northern Ireland				
+hCoV-19/England/PHEC-L306LA36/2021	EPI_ISL_2749123	2021	Europe / United Kingdom / England				
+hCoV-19/South Korea/KDCA5183/2021	EPI_ISL_2754641	2021-06-05	Asia / South Korea				
+hCoV-19/USA/IL-RIPHL_60039_G/2021	EPI_ISL_2758248	2021-05-14	North America / USA / Illinois / Chicago				
+hCoV-19/Germany/HB-RKI-I-183555/2021	EPI_ISL_2762006	2021-06-23	Europe / Germany / Bremen				
+hCoV-19/Germany/HB-RKI-I-183606/2021	EPI_ISL_2762053	2021-06-23	Europe / Germany / Bremen				
+hCoV-19/Germany/HB-RKI-I-183641/2021	EPI_ISL_2762085	2021-06-23	Europe / Germany / Bremen				
+hCoV-19/France/NOR-11655493/2021	EPI_ISL_2769380	2021-04-23	Europe / France / Normandie				
+hCoV-19/India/TG-CCMB-CIA5106/2021	EPI_ISL_2774699	2021-06-10	Asia / India / Telangana / Hyderabad				
+hCoV-19/France/BRE-IPP14418/2021	EPI_ISL_2790921	2021-06-05	Europe / France / Bretagne / Chateaulin				
+hCoV-19/France/BRE-IPP14420/2021	EPI_ISL_2790922	2021-06-07	Europe / France / Bretagne / Chateaulin				
+hCoV-19/France/BRE-IPP14421/2021	EPI_ISL_2790923	2021-06-08	Europe / France / Bretagne / Chateaulin				
+hCoV-19/France/BFC-HMN-21062180206/2021	EPI_ISL_2791285	2021-05-22	Europe / France / Bourgogne-Franche-Comte				
